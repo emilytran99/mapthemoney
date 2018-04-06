@@ -26,6 +26,15 @@
 </head>
 <body>
     <script>
+    var names = {};
+
+    d3.tsv("stateNames.tsv", function(tsv){
+        // grabs just name
+        tsv.forEach( (d,i) =>{
+          names[d.id] = d.name;
+        });
+    });
+
     var width = 960,
     height = 600,
     centered;
@@ -52,7 +61,11 @@
                 .data(topojson.feature(us, us.objects.states).features)
             .enter().append("path")
                 .attr("d", path)
-                .on("click", clicked);
+                .on("click", clicked)
+                .append("svg:title")
+                .text(function(d) {
+                    return names[d.id];
+                });
 
         g.append("path")
         .attr("class", "state-borders")
@@ -64,12 +77,10 @@
 
         if (d && centered !== d) {
             var centroid = path.centroid(d);
-            console.log(centroid);
             x = centroid[0];
             y = centroid[1];
             k = 4;
             centered = d;
-            console.log(d);
         } else {
             x = width / 2;
             y = height / 2;
