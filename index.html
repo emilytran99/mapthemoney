@@ -10,7 +10,7 @@
     }
     .state-borders {
         fill: none;
-        stroke: #fff;
+        stroke: grey;
         stroke-width: 1px;
         stroke-linejoin: round;
         stroke-linecap: round;
@@ -20,12 +20,45 @@
     .states .active {
         fill: red;
     }
+
+    #stateHover {
+        background-color: white;
+        padding: 3px;
+        position: absolute;
+        display: inline-block;
+        top: 0;
+        left: 0;
+        visibility: hidden;
+    }
+
+    #stateHover::after {
+        position: absolute;
+        top: 36%;
+        left: -8px;
+        content: '';
+        width: 0px;
+        height: 0px;
+        border: 4px solid transparent;
+        border-right-color: white;
+    }
+
+    #infoWin {
+        width: 600px;
+        background-color: blue;
+    }
+
     </style>
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
 </head>
 <body>
+    <div id="infoWin">
+        <div id="closeInfo">Close</div>
+        Info goes here
+    </div>
+    
     <script>
+
     var names = {};
 
     d3.tsv("stateNames.tsv", function(tsv){
@@ -34,6 +67,10 @@
           names[d.id] = d.name;
         });
     });
+
+    var stateHover = d3.select("body")
+        .append("div")
+        .attr("id", "stateHover");
 
     var width = 960,
     height = 600,
@@ -62,15 +99,37 @@
             .enter().append("path")
                 .attr("d", path)
                 .on("click", clicked)
+                .on("mouseover", showStateHover)
+                .on("mousemove", trackMouse)
+                .on("mouseout", (d) => {
+                    stateHover.style("visibility", "hidden");
+                })
                 .append("svg:title")
                 .text(function(d) {
                     return names[d.id];
                 });
 
+
         g.append("path")
         .attr("class", "state-borders")
         .attr("d", path(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; })));
     });
+
+    function showStateHover(d) {
+        if (centered == null) {
+            stateHover.style("visibility", "visible");
+        }
+    }
+
+    function trackMouse(d) {
+        if (centered == null) {
+            var mouse = d3.mouse(this);
+            stateHover
+                .style("top", `${mouse[1]}px`)
+                .style("left", `${mouse[0] + 20}px`)
+                .text(names[d.id]);
+        }
+    }
 
     function clicked(d) {
         var x, y, k;
@@ -81,6 +140,7 @@
             y = centroid[1];
             k = 4;
             centered = d;
+            openPopUp(names[d.id]);
         } else {
             x = width / 2;
             y = height / 2;
@@ -95,8 +155,12 @@
             .duration(750)
             .attr("transform", `translate( ${width / 2}, ${height / 2})scale(${k})translate(${-x}, ${-y})`)
             .style("stroke-width", 1.5 / k + "px");
-
     }
+
+    function openPopUp(state){
+        var popUp = document.getElementById("infoWin").innerHTML = state;
+    }
+
 </script>
 </body>
 </html>
