@@ -278,8 +278,16 @@
                             .append('title')
                             .text((d)=>{return `$${d.total}, ${d.org_name}`;});
 
-        function showDonorInfo(d){
-            var rect = this.getBoundingClientRect();
+        function showDonorInfo(info){
+            var section = this.closest(".senatorInfo");
+            var graph = d3.select(section)
+                            .select("svg")
+                            .select("#bars")
+                            .selectAll("rect");
+
+            var block = graph.filter(function(d) { return (d.total == info.total) &&
+                                                          (d.org_name == info.org_name) });
+            var rect = block.node().getBoundingClientRect();
             var width = rect.width;
             var x = rect.x;
             var y = rect.y;
@@ -287,26 +295,36 @@
                 .style("visibility", 	"visible")
                 .style("top",           `calc(${y + 0}px)`)
                 .style("left",          `calc(${x + width / 2 }px)`)
-                .html(`${d.org_name} </br> $${d.total}`);
+                .html(`${info.org_name} </br> $${info.total}`);
         }
 
         function hideDonorInfo(d){
             donorHover.style("visibility", "hidden");
         }
 
-        infoBox.append("button")
+        infoBox.append("div")
                 .attr("class", "tableButton")
-                .text("Top 10 contributor data");
-                
-        infoBox.append("table")
+                .text("Top 10 contributor data")
+                .on("click", toggleTable)
+                .append("span");
+
+        infoBox.append("div")
+                .attr("class", "tableWrapper")
+                .append("table")
                 .selectAll('tr')
                 .data(data.contributor)
                 .enter()
                 .append('tr')
                 .html((d)=>{return `<td>${d.org_name}</td>
-                                    <td>$${d.total}</td>`;});
+                                    <td>$${d.total}</td>`;})
+                .on("mouseover", showDonorInfo)
+                .on("mouseout", hideDonorInfo);
     }
 
+    function toggleTable(button) {
+        this.childNodes[1].classList.toggle("open");
+        this.nextSibling.classList.toggle("open");
+    }
 
 </script>
 </body>

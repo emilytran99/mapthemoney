@@ -150,3 +150,65 @@ body {
     left: calc(50% - 8px);
     bottom: -18px;
 }
+
+h3 {
+    margin: 0;
+}
+
+.tableWrapper {
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.4s;
+    width: 550px;
+    margin-bottom: 20px;
+}
+
+.tableWrapper.open {
+    max-height: 600px;
+}
+
+.openTable {
+    visibility: visible;
+}
+
+.tableButton {
+    width: 550px;
+    display: block;
+    background-color: grey;
+    color: white;
+    padding: 12px;
+    box-sizing: border-box;
+    font-size: 75%;
+}
+
+.tableButton span{
+    display: inline-block;
+    float: right;
+}
+
+.tableButton span::before{
+    content: '+';
+}
+
+.tableButton span.open::before{
+    content: '-';
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 75%;
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2;;
+}
+
+tr:hover {
+    background-color:  #ddd;;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 6px;
+}
