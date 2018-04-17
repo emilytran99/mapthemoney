@@ -1,68 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-    #background {
-        fill: grey;
-    }
-    .states :hover {
-        fill: darkred;
-    }
-    .state-borders {
-        fill: none;
-        stroke: grey;
-        stroke-width: 1px;
-        stroke-linejoin: round;
-        stroke-linecap: round;
-        pointer-events: none;
-    }
-
-    .states .active {
-        fill: red;
-    }
-
-    #stateHover {
-        background-color: white;
-        padding: 3px;
-        position: absolute;
-        display: inline-block;
-        top: 0;
-        left: 0;
-        visibility: hidden;
-    }
-
-    #stateHover::after {
-        position: absolute;
-        top: 36%;
-        left: -8px;
-        content: '';
-        width: 0px;
-        height: 0px;
-        border: 4px solid transparent;
-        border-right-color: white;
-    }
-
-    #infoWin {
-        width: 600px;
-        background-color: blue;
-    }
-
-    </style>
+    <link   rel = "stylesheet"
+            type = "text/css"
+            href = "style.css" />
     <script src="https://d3js.org/d3.v4.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
+
 </head>
 <body>
+    <h1> Map the Money </h1>
     <div id="infoWin">
-        <div id="closeInfo">Close</div>
-        Info goes here
+        <h2> Welcome to Map the Money! </h2>
+        <div class="closeInfo" id="closeX" onClick="infoClose();">&times;</div>
+        <div id="stateInfo">
+            Click on a state to see that state's senators' top contributors.
+            <div id="wrapper"></div>
+        </div>
+        <div class="closeInfo" id="closeButton" onClick="infoClose();">Done</div>
     </div>
-    
-    <script>
 
+    <svg id="map">
+    </svg>
+
+    <script>
+    renderWelcome();
+
+// MAP RENDERING
     var names = {};
 
-    d3.tsv("stateNames.tsv", function(tsv){
-        // grabs just name
+    d3.tsv("stateNames.tsv", function(error, tsv){
+        if (error) throw error;
+
         tsv.forEach( (d,i) =>{
           names[d.id] = d.name;
         });
@@ -73,13 +42,12 @@
         .attr("id", "stateHover");
 
     var width = 960,
-    height = 600,
-    centered;
+        height = 600,
+        centered;
 
-    var svg = d3.select("body")
-        .append("svg")
-        .attr("width", width)
-        .attr("height", height);
+    var svg = d3.select("#map")
+                .attr("width", width)
+                .attr("height", height);
 
     svg.append("rect")
         .attr("id", "background")
@@ -118,15 +86,19 @@
     function showStateHover(d) {
         if (centered == null) {
             stateHover.style("visibility", "visible");
+            g.selectAll("path")
+                .style("cursor", "zoom-in");
         }
     }
 
     function trackMouse(d) {
         if (centered == null) {
-            var mouse = d3.mouse(this);
+
+            var mouse = d3.mouse(document.body);
+            //console.log(mouse);
             stateHover
-                .style("top", `${mouse[1]}px`)
-                .style("left", `${mouse[0] + 20}px`)
+                .style("top", `${mouse[1] - 3}px`)
+                .style("left", `${mouse[0] + 25}px`)
                 .text(names[d.id]);
         }
     }
@@ -138,9 +110,12 @@
             var centroid = path.centroid(d);
             x = centroid[0];
             y = centroid[1];
-            k = 4;
+            var bb = this.getBBox();
+            k = 6;//bb.width * bb.height / 3000;
             centered = d;
-            openPopUp(names[d.id]);
+            g.selectAll("path")
+                .style("cursor", "default");
+
         } else {
             x = width / 2;
             y = height / 2;
@@ -155,11 +130,183 @@
             .duration(750)
             .attr("transform", `translate( ${width / 2}, ${height / 2})scale(${k})translate(${-x}, ${-y})`)
             .style("stroke-width", 1.5 / k + "px");
+        if (centered) openPopUp(names[d.id]);
     }
 
+
+//MODAL HANDLING
     function openPopUp(state){
-        var popUp = document.getElementById("infoWin").innerHTML = state;
+        d3.select("#closeButton").text("Back to the map");
+        d3.select("#infoWin").style("visibility", "visible")
+            .transition()
+            .duration(750)
+            .style("opacity", "1");
+        d3.select("#infoWin h2").text(state);
+        renderInfo(state);
     }
+
+    function infoClose(){
+        d3.select("#infoWin")
+            .transition()
+            .duration(750)
+            .style("opacity", "0")
+            .on("end", () => {d3.select("#infoWin").style("visibility", "hidden")});
+        clicked(null);
+    }
+
+    function renderWelcome() {
+        d3.selectAll(".senInfo").text("");
+        d3.select("#stateInfo").text("Stick about section here");
+        d3.select("#closeButton").text("Explore the map");
+    }
+
+    function renderNoInfo() {
+        d3.selectAll(".senInfo").text("");
+        d3.select("#stateInfo").text("We don't have info on this state yet!");
+    }
+
+// MODAL D3
+    allStateData = {};
+
+    d3.json("donorClean.json", function(error, data) {
+        if (error) throw error;
+        allStateData = data;
+    });
+
+
+    function renderInfo(state) {
+        var stateData
+        try {
+            stateData = allStateData[state].senators;
+        }
+        catch (err) {
+            console.log(err);
+            renderNoInfo();
+            return;
+        }
+
+        var maxTotal = maxSum(stateData);
+        if (maxTotal < 0) {
+            renderNoInfo();
+            return;
+        }
+        var infoBox = d3.select("#stateInfo")
+                        .text("");
+
+        for (var i in stateData){
+            makeGraph(stateData[i], maxTotal);
+        }
+    }
+
+    var donorHover = d3.select("body")
+        .append("div")
+        .attr("id", "donorHover");
+
+
+    function maxSum(data) {
+        var sums = [];
+        for (var i in data){
+            sums.push( d3.sum(data[i].contributor,
+                            (d)=>{
+                                return d.total;
+                            })
+                        );
+        }
+        return d3.max(sums);
+    }
+
+    function pickColor(party) {
+        var dem = ['darkblue','white'];
+        var rep = ['darkred', 'white'];
+        var ind = ['darkgrey', 'white'];
+
+        if (party == 'D') {
+            return dem;
+        } else if (party == 'R') {
+            return rep;
+        } else {
+            return ind;
+        }
+    }
+
+    function makeGraph(data, maxTotal)
+    {
+        var infoBox = d3.select("#stateInfo")
+                        .append("div")
+                        .attr("class", "senatorInfo");
+        infoBox.append("h3")
+                .text(data.cand_name);
+
+        var w = 550;
+        var canvas = infoBox
+                        .append('svg')
+                        .attr('width', w)
+                        .attr('height', 90);
+
+        var color = pickColor(data.party);
+
+        var colorScale = d3.scaleLinear()
+                        .domain([0, data.contributor.length])
+                        .range(color);
+
+        var xscale = d3.scaleLinear()
+                        .domain([0, maxTotal]) //values
+                        .range([0,w-10]); // pixels
+
+        var x_xis = canvas.append('g')
+                          .attr("transform", "translate(5,65)")
+                          .attr('id','xaxis')
+                          .call(d3.axisBottom(xscale));
+
+        var xA = 0;
+        var chart = canvas.append('g')
+                            .attr("transform", "translate(5,0)")
+                            .attr('id','bars')
+                            .selectAll('rect')
+                            .data(data.contributor)
+                            .enter()
+                            .append('rect')
+                            .attr('height',30)
+                            .on("mouseover", showDonorInfo)
+                            .on("mouseout", hideDonorInfo)
+                            .attr("width", function(d) {return xscale(d.total); })
+                            .attr('x', function(d,i){ var x = xA;
+                                        xA+= xscale(d.total);
+                                        return x;})
+                            .attr('y', 30) //how spread out things are
+                            .style('fill',function(d,i){ return colorScale(i); })
+                            .append('title')
+                            .text((d)=>{return `$${d.total}, ${d.org_name}`;});
+
+        function showDonorInfo(d){
+            var rect = this.getBoundingClientRect();
+            var width = rect.width;
+            var x = rect.x;
+            var y = rect.y;
+            donorHover
+                .style("visibility", 	"visible")
+                .style("top",           `calc(${y + 0}px)`)
+                .style("left",          `calc(${x + width / 2 }px)`)
+                .html(`${d.org_name} </br> $${d.total}`);
+        }
+
+        function hideDonorInfo(d){
+            donorHover.style("visibility", "hidden");
+        }
+
+        infoBox.append("button")
+                .attr("class", "tableButton")
+                .text("Top 10 contributor data");
+                
+        infoBox.append("table")
+                .selectAll('tr')
+                .data(data.contributor)
+                .enter()
+                .append('tr')
+                .html((d)=>{return `<td>${d.org_name}</td>
+                                    <td>$${d.total}</td>`;});
+    }
+
 
 </script>
 </body>

@@ -1,0 +1,37 @@
+{
+    "California":{
+        "senators": [
+            {
+                "cand_name":"Fake Person 1",
+                "party": "D",
+                "contributor":[
+                    {"org_name":"Amazon.com","total":"12720","pacs":"10000","indivs":"2720"},
+                    {"org_name":"Certain Software Inc","total":"10800","pacs":"0","indivs":"10800"},
+                    {"org_name":"R&S Assoc","total":"10800","pacs":"0","indivs":"10800"},
+                    {"org_name":"Facebook Inc","total":"10400","pacs":"5000","indivs":"5400"},
+                    {"org_name":"Delta Air Lines","total":"10191","pacs":"10000","indivs":"191"},
+                    {"org_name":"International Brotherhood of Electrical Workers","total":"10030","pacs":"10000","indivs":"30"},
+                    {"org_name":"Carpenters & Joiners Union","total":"10000","pacs":"10000","indivs":"0"},
+                    {"org_name":"Community Health Systems","total":"10000","pacs":"10000","indivs":"0"},
+                    {"org_name":"Credit Union National Assn","total":"10000","pacs":"10000","indivs":"0"},
+                    {"org_name":"HCA Inc","total":"10000","pacs":"10000","indivs":"0"}
+                ]
+            },
+            {
+                "cand_name":"Fake Person 2",
+                "party": "R",
+                "contributor":[
+                    {"org_name":"Not Amazon.com","total":"22720","pacs":"10000","indivs":"2720"},
+                    {"org_name":"Not Certain Software Inc","total":"10800","pacs":"0","indivs":"10800"},
+                    {"org_name":"Not R&S Assoc","total":"10800","pacs":"0","indivs":"10800"},
+                    {"org_name":"Not Facebook Inc","total":"10400","pacs":"5000","indivs":"5400"},
+                    {"org_name":"Not Delta Air Lines","total":"10191","pacs":"10000","indivs":"191"},
+                    {"org_name":"Not International Brotherhood of Electrical Workers","total":"10030","pacs":"10000","indivs":"30"},
+                    {"org_name":"Not Community Health Systems","total":"10000","pacs":"10000","indivs":"0"},
+                    {"org_name":"Not Credit Union National Assn","total":"9000","pacs":"10000","indivs":"0"},
+                    {"org_name":"Not HCA Inc","total":"3000","pacs":"10000","indivs":"0"}
+                ]
+            }
+        ]
+    }
+}
