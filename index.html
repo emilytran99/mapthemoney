@@ -93,12 +93,10 @@
 
     function trackMouse(d) {
         if (centered == null) {
-
             var mouse = d3.mouse(document.body);
-            //console.log(mouse);
             stateHover
-                .style("top", `${mouse[1] - 3}px`)
-                .style("left", `${mouse[0] + 25}px`)
+                .style("top", `${mouse[1] - 15}px`)
+                .style("left", `${mouse[0] + 15}px`)
                 .text(names[d.id]);
         }
     }
@@ -111,7 +109,7 @@
             x = centroid[0];
             y = centroid[1];
             var bb = this.getBBox();
-            k = 6;//bb.width * bb.height / 3000;
+            k = 6; //bb.width * bb.height / 3000;
             centered = d;
             g.selectAll("path")
                 .style("cursor", "default");
@@ -216,9 +214,10 @@
     }
 
     function pickColor(party) {
-        var dem = ['darkblue','white'];
-        var rep = ['darkred', 'white'];
-        var ind = ['darkgrey', 'white'];
+        var fade = "beige"
+        var dem = ['darkblue', fade];
+        var rep = ['darkred',  fade];
+        var ind = ['darkgrey', fade];
 
         if (party == 'D') {
             return dem;
@@ -231,23 +230,27 @@
 
     function makeGraph(data, maxTotal)
     {
-        var infoBox = d3.select("#stateInfo")
-                        .append("div")
-                        .attr("class", "senatorInfo");
-        infoBox.append("h3")
-                .text(data.cand_name);
-
-        var w = 550;
-        var canvas = infoBox
-                        .append('svg')
-                        .attr('width', w)
-                        .attr('height', 90);
 
         var color = pickColor(data.party);
 
         var colorScale = d3.scaleLinear()
                         .domain([0, data.contributor.length])
                         .range(color);
+
+        var infoBox = d3.select("#stateInfo")
+                        .append("div")
+                        .attr("class", "senatorInfo");
+        infoBox.append("h3")
+                .text(data.cand_name);
+
+        infoBox.append("p")
+                .html(`The top ten contributors donated <span class = "em" style="color: ${colorScale(0)}">$${maxSum([data]).toLocaleString()}</span>`);
+        var w = 550;
+        var canvas = infoBox
+                        .append('svg')
+                        .attr('width', w)
+                        .attr('height', 90);
+
 
         var xscale = d3.scaleLinear()
                         .domain([0, maxTotal]) //values
@@ -291,11 +294,13 @@
             var width = rect.width;
             var x = rect.x;
             var y = rect.y;
-            donorHover
-                .style("visibility", 	"visible")
-                .style("top",           `calc(${y + 0}px)`)
-                .style("left",          `calc(${x + width / 2 }px)`)
-                .html(`${info.org_name} </br> $${info.total}`);
+            if (y > 110) {
+                donorHover
+                    .style("visibility", 	"visible")
+                    .style("top",           `${y}px`)
+                    .style("left",          `calc(${x + width / 2 }px)`)
+                    .html(`${info.org_name} </br> $${info.total}`);
+            }
         }
 
         function hideDonorInfo(d){
@@ -319,6 +324,8 @@
                                     <td>$${d.total}</td>`;})
                 .on("mouseover", showDonorInfo)
                 .on("mouseout", hideDonorInfo);
+
+
     }
 
     function toggleTable(button) {

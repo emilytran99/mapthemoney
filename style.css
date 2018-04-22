@@ -212,3 +212,16 @@ td {
     border: 1px solid #ddd;
     padding: 6px;
 }
+
+.senatorInfo {
+    border-bottom: 1px solid black;
+    margin-bottom: 12px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.em {
+    font-weight: bold;
+}
