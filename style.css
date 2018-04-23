@@ -2,7 +2,8 @@
 
 @font-face {
     font-family:"Avenir";
-    src: url('AvenirLTStd-Roman.otf');
+    src: url('AvenirLTStd-Roman.otf') format("opentype");
+}
 
 :root {
   --state: #002200;
