@@ -34,9 +34,7 @@
                 ]
             }
         ]
-    }
-},
-{
+    },
     "Alaska":{
         "senators": [
             {
@@ -74,24 +72,22 @@
                 ]
             }
         ]
-    }
-},
-{
+    },
     "Arkansas":{
-        "senators": [ 
+        "senators": [
             {
                 "cand_name":"John Boozman",
                 "party": "R",
                 "contributor":[
-                    {"org_name": "Wal-Mart Stores", "total": "65880", "pacs": "10000", "indivs": "55880"}
-                    {"org_name": "Stephens Group", "total": "61700", "pacs": "10000", "indivs": "51700"}
-                    {"org_name": "US Senate", "total": "25400", "pacs": "0", "indivs": "25400"}
-                    {"org_name": "NextEra Energy", "total": "23500", "pacs": "10000", "indivs": "13500"}
-                    {"org_name": "NorPAC", "total": "22000", "pacs": "0", "indivs": "22000"}
-                    {"org_name": "MCNA Dental Plans", "total": "18900", "pacs": "0", "indivs": "18900"}
-                    {"org_name": "Murphy Oil", "total": "18200", "pacs": "5000", "indivs": "13200"}
-                    {"org_name": "Blessey Marine Service", "total": "17900", "pacs": "12500", "indivs": "5400"}
-                    {"org_name": "Campbell Soup", "total": "17000", "pacs": "17000", "indivs": "0"}
+                    {"org_name": "Wal-Mart Stores", "total": "65880", "pacs": "10000", "indivs": "55880"},
+                    {"org_name": "Stephens Group", "total": "61700", "pacs": "10000", "indivs": "51700"},
+                    {"org_name": "US Senate", "total": "25400", "pacs": "0", "indivs": "25400"},
+                    {"org_name": "NextEra Energy", "total": "23500", "pacs": "10000", "indivs": "13500"},
+                    {"org_name": "NorPAC", "total": "22000", "pacs": "0", "indivs": "22000"},
+                    {"org_name": "MCNA Dental Plans", "total": "18900", "pacs": "0", "indivs": "18900"},
+                    {"org_name": "Murphy Oil", "total": "18200", "pacs": "5000", "indivs": "13200"},
+                    {"org_name": "Blessey Marine Service", "total": "17900", "pacs": "12500", "indivs": "5400"},
+                    {"org_name": "Campbell Soup", "total": "17000", "pacs": "17000", "indivs": "0"},
                     {"org_name": "Anheuser-Busch InBev", "total": "16650", "pacs": "11000", "indivs": "5650"}
                 ]
             },
@@ -99,15 +95,15 @@
                 "cand_name":"Tom Cotton",
                 "party": "R",
                 "contributor":[
-                    {"org_name": "Club for Growth", "total": "457924", "pacs": "0", "indivs": "457924"}
-                    {"org_name": "Elliott Management", "total": "147900", "pacs": "0", "indivs": "147900"}
-                    {"org_name": "Stephens Group", "total": "130000", "pacs": "10000", "indivs": "120000"}
-                    {"org_name": "Goldman Sachs", "total": "124649", "pacs": "20000", "indivs": "104649"}
-                    {"org_name": "Senate Conservatives Fund", "total": "81210", "pacs": "5000", "indivs": "76210"}
-                    {"org_name": "Citadel LLC", "total": "45450", "pacs": "0", "indivs": "45450"}
-                    {"org_name": "Gibson, Dunn & Crutcher", "total": "44900", "pacs": "2500", "indivs": "42400"}
-                    {"org_name": "Crow Holdings", "total": "42200", "pacs": "0", "indivs": "42200"}
-                    {"org_name": "Wells Fargo", "total": "37422", "pacs": "9000", "indivs": "28422"}
+                    {"org_name": "Club for Growth", "total": "457924", "pacs": "0", "indivs": "457924"},
+                    {"org_name": "Elliott Management", "total": "147900", "pacs": "0", "indivs": "147900"},
+                    {"org_name": "Stephens Group", "total": "130000", "pacs": "10000", "indivs": "120000"},
+                    {"org_name": "Goldman Sachs", "total": "124649", "pacs": "20000", "indivs": "104649"},
+                    {"org_name": "Senate Conservatives Fund", "total": "81210", "pacs": "5000", "indivs": "76210"},
+                    {"org_name": "Citadel LLC", "total": "45450", "pacs": "0", "indivs": "45450"},
+                    {"org_name": "Gibson, Dunn & Crutcher", "total": "44900", "pacs": "2500", "indivs": "42400"},
+                    {"org_name": "Crow Holdings", "total": "42200", "pacs": "0", "indivs": "42200"},
+                    {"org_name": "Wells Fargo", "total": "37422", "pacs": "9000", "indivs": "28422"},
                     {"org_name": "Koch Industries", "total": "36300", "pacs": "5000", "indivs": "31300"}
                 ]
             }
