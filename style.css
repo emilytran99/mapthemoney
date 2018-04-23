@@ -2,7 +2,7 @@
 
 @font-face {
     font-family:"Montserrat";
-    src: url('Montserrat-Light.otf');
+    src: url('Montserrat-Light.otf') format('opensource');
 }
 
 :root {
@@ -164,8 +164,7 @@ h3 {
     max-height: 0;
     overflow: hidden;
     transition: 0.4s;
-    width: 550px;
-    margin-bottom: 20px;
+    margin: 0 0 20px 0;
 }
 
 .tableWrapper.open {
@@ -177,7 +176,7 @@ h3 {
 }
 
 .tableButton {
-    width: 550px;
+    margin: 6px;
     display: block;
     background-color: grey;
     color: white;
@@ -201,7 +200,8 @@ h3 {
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: calc(100% - 12px);
+    margin: 6px;
     font-size: 75%;
 }
 
@@ -219,7 +219,7 @@ td {
 }
 
 .senatorInfo {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid lightgrey;
     margin-bottom: 12px;
 }
 
