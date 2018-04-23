@@ -246,7 +246,9 @@
 
         infoBox.append("p")
                 .html(`The top ten contributors donated <span class = "em" style="color: ${colorScale(0)}">$${maxSum([data]).toLocaleString()}</span>`);
-        var w = 550;
+        var w = d3.select("#infoWin").node().getBoundingClientRect().width - 80;
+        console.log(w);
+
         var canvas = infoBox
                         .append('svg')
                         .attr('width', w)
@@ -255,12 +257,13 @@
 
         var xscale = d3.scaleLinear()
                         .domain([0, maxTotal]) //values
-                        .range([0,w-10]); // pixels
+                        .range([0,w-30]); // pixels
 
         var x_xis = canvas.append('g')
                           .attr("transform", "translate(5,65)")
                           .attr('id','xaxis')
-                          .call(d3.axisBottom(xscale));
+                          .call(d3.axisBottom(xscale)
+                                    .ticks(7));
 
         var xA = 0;
         var chart = canvas.append('g')
@@ -300,7 +303,7 @@
                     .style("visibility", 	"visible")
                     .style("top",           `${y}px`)
                     .style("left",          `calc(${x + width / 2 }px)`)
-                    .html(`${info.org_name} </br> $${info.total}`);
+                    .html(`${info.org_name} </br> $${parseInt(info.total).toLocaleString()}`);
             }
         }
 
@@ -322,7 +325,7 @@
                 .enter()
                 .append('tr')
                 .html((d)=>{return `<td>${d.org_name}</td>
-                                    <td>$${d.total}</td>`;})
+                                    <td>$${parseInt(d.total).toLocaleString()}</td>`;})
                 .on("mouseover", showDonorInfo)
                 .on("mouseout", hideDonorInfo);
 
