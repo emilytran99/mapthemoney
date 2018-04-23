@@ -1,0 +1,1804 @@
+{
+    "Alabama":{
+        "senators": [
+            {
+                "cand_name":"Doug Jones",
+                "party": "D",
+                "contributor":[
+                    {"org_name":"University of Alabama","total":"149164","pacs":"0","indivs":"149164"},
+                    {"org_name":"Alphabet Inc","total":"141134","pacs":"0","indivs":"141134"},
+                    {"org_name":"University of California","total":"88253","pacs":"0","indivs":"88253"},
+                    {"org_name":"Sullivan &amp; Cromwell","total":"71773","pacs":"0","indivs":"71773"},
+                    {"org_name":"Bradley, Arant et al","total":"58385","pacs":"0","indivs":"58385"},
+                    {"org_name":"Microsoft Corp","total":"41412","pacs":"0","indivs":"41412"},
+                    {"org_name":"Maynard, Cooper &amp; Gale","total":"40985","pacs":"0","indivs":"40985"},
+                    {"org_name":"Apple Inc","total":"38817","pacs":"0","indivs":"38817"},
+                    {"org_name":"League of Conservation Voters","total":"35979","pacs":"4999","indivs":"30980"},
+                    {"org_name":"Facebook Inc","total":"35824","pacs":"0","indivs":"35824"}
+                ]
+            },
+            {
+                "cand_name":"Richard C Shelby",
+                "party": "R",
+                "contributor":[
+                    {"org_name":"Citadel LLC","total":"60000","pacs":"0","indivs":"60000"},
+                    {"org_name":"MetLife Inc","total":"52700","pacs":"9000","indivs":"43700"},
+                    {"org_name":"Goldman Sachs","total":"51800","pacs":"10000","indivs":"41800"},
+                    {"org_name":"Signature Bank","total":"44050","pacs":"0","indivs":"44050"},
+                    {"org_name":"FedEx Corp","total":"41200","pacs":"10000","indivs":"31200"},
+                    {"org_name":"Sullivan &amp; Cromwell","total":"39000","pacs":"0","indivs":"39000"},
+                    {"org_name":"Boeing Co","total":"38000","pacs":"0","indivs":"38000"},
+                    {"org_name":"BB&amp;T Corp","total":"35900","pacs":"7000","indivs":"28900"},
+                    {"org_name":"FMR Corp","total":"35650","pacs":"7000","indivs":"28650"},
+                    {"org_name":"American Express","total":"31500","pacs":"7000","indivs":"24500"}
+                ]
+            }
+        ]
+    },
+    "Alaska":{
+        "senators": [
+            {
+                "cand_name":"Dan Sullivan",
+                "party": "R",
+                "contributor":[
+                    {"org_name":"Club for Growth","total":"442078","pacs":"0","indivs":"442078"},
+                    {"org_name":"Rpm International","total":"70800","pacs":"5000","indivs":"65800"},
+                    {"org_name":"Goldman Sachs","total":"54500","pacs":"1500","indivs":"53000"},
+                    {"org_name":"Koch Industries","total":"53250","pacs":"10000","indivs":"43250"},
+                    {"org_name":"Gci Communication","total":"42854","pacs":"0","indivs":"42854"},
+                    {"org_name":"Summit Partners","total":"34600","pacs":"0","indivs":"34600"},
+                    {"org_name":"Edison Chouest Offshore","total":"32200","pacs":"0","indivs":"32200"},
+                    {"org_name":"Community Health Systems","total":"10000","pacs":"10000","indivs":"0"},
+                    {"org_name":"Calfee, Halter &amp; Griswold","total":"30700","pacs":"0","indivs":"30700"},
+                    {"org_name":"Paul, Weiss et al","total":"30501","pacs":"0","indivs":"30501"}
+                ]
+            },
+            {
+                "cand_name":"Lisa Murkowski",
+                "party": "R",
+                "contributor":[
+                    {"org_name":"PG&amp;E Corp","total":"59400","pacs":"11000","indivs":"48400"},
+                    {"org_name":"Cheniere Energy","total":"58000","pacs":"10000","indivs":"48000"},
+                    {"org_name":"Elliott Management","total":"43000","pacs":"0","indivs":"43000"},
+                    {"org_name":"Energy Transfer Equity","total":"40700","pacs":"7500","indivs":"33200"},
+                    {"org_name":"Trident Seafoods","total":"40050","pacs":"0","indivs":"40050"},
+                    {"org_name":"Sempra Energy","total":"39700","pacs":"15000","indivs":"24700"},
+                    {"org_name":"ConocoPhillips","total":"37200","pacs":"10000","indivs":"27200"},
+                    {"org_name":"NextEra Energy","total":"35250","pacs":"15000","indivs":"20250"},
+                    {"org_name":"KKR &amp; Co","total":"35100","pacs":"0","indivs":"35100"},
+                    {"org_name":"NextEra Energy","total":"35250","pacs":"15000","indivs":"20250"},
+                    {"org_name":"DTE Energy","total":"34958","pacs":"12000","indivs":"22958"}
+
+                ]
+            }
+        ]
+    },
+    "Arkansas":{
+        "senators": [
+            {
+                "cand_name":"John Boozman",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Wal-Mart Stores", "total": "65880", "pacs": "10000", "indivs": "55880"},
+                    {"org_name": "Stephens Group", "total": "61700", "pacs": "10000", "indivs": "51700"},
+                    {"org_name": "US Senate", "total": "25400", "pacs": "0", "indivs": "25400"},
+                    {"org_name": "NextEra Energy", "total": "23500", "pacs": "10000", "indivs": "13500"},
+                    {"org_name": "NorPAC", "total": "22000", "pacs": "0", "indivs": "22000"},
+                    {"org_name": "MCNA Dental Plans", "total": "18900", "pacs": "0", "indivs": "18900"},
+                    {"org_name": "Murphy Oil", "total": "18200", "pacs": "5000", "indivs": "13200"},
+                    {"org_name": "Blessey Marine Service", "total": "17900", "pacs": "12500", "indivs": "5400"},
+                    {"org_name": "Campbell Soup", "total": "17000", "pacs": "17000", "indivs": "0"},
+                    {"org_name": "Anheuser-Busch InBev", "total": "16650", "pacs": "11000", "indivs": "5650"}
+                ]
+            },
+            {
+                "cand_name":"Tom Cotton",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "457924", "pacs": "0", "indivs": "457924"},
+                    {"org_name": "Elliott Management", "total": "147900", "pacs": "0", "indivs": "147900"},
+                    {"org_name": "Stephens Group", "total": "130000", "pacs": "10000", "indivs": "120000"},
+                    {"org_name": "Goldman Sachs", "total": "124649", "pacs": "20000", "indivs": "104649"},
+                    {"org_name": "Senate Conservatives Fund", "total": "81210", "pacs": "5000", "indivs": "76210"},
+                    {"org_name": "Citadel LLC", "total": "45450", "pacs": "0", "indivs": "45450"},
+                    {"org_name": "Gibson, Dunn & Crutcher", "total": "44900", "pacs": "2500", "indivs": "42400"},
+                    {"org_name": "Crow Holdings", "total": "42200", "pacs": "0", "indivs": "42200"},
+                    {"org_name": "Wells Fargo", "total": "37422", "pacs": "9000", "indivs": "28422"},
+                    {"org_name": "Koch Industries", "total": "36300", "pacs": "5000", "indivs": "31300"}
+                ]
+            }
+        ]
+    },
+    "Arizona":{
+        "senators": [ 
+            {
+                "cand_name":"Jeff Flake",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "American Airlines Group", "total": "69550", "pacs": "5000", "indivs": "64550"},
+                    {"org_name": "Pinnacle West Capital", "total": "40750", "pacs": "5000", "indivs": "35750"},
+                    {"org_name": "Marriott International", "total": "30400", "pacs": "20000", "indivs": "10400"},
+                    {"org_name": "Pivotal Group", "total": "28573", "pacs": "0", "indivs": "28573"},
+                    {"org_name": "Visa Inc", "total": "25100", "pacs": "5000", "indivs": "20100"},
+                    {"org_name": "Salt River Project", "total": "24750", "pacs": "15000", "indivs": "9750"},
+                    {"org_name": "Affiliated Managers Group", "total": "21600", "pacs": "0", "indivs": "21600"},
+                    {"org_name": "Raytheon Co", "total": "21500", "pacs": "15500", "indivs": "6000"},
+                    {"org_name": "Express Scripts", "total": "21450", "pacs": "5000", "indivs": "16450"},
+                    {"org_name": "Freeport-McMoRan Copper & Gold", "total": "20200", "pacs": "0", "indivs": "20200"}
+                ]
+            },
+            {
+                "cand_name":"John McCain",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "General Electric", "total": "83630", "pacs": "10000", "indivs": "73630"},
+                    {"org_name": "Pinnacle West Capital", "total": "81650", "pacs": "10000", "indivs": "71650"},
+                    {"org_name": "NorPAC", "total": "77300", "pacs": "0", "indivs": "77300"},
+                    {"org_name": "Greenberg Traurig LLP", "total": "64249", "pacs": "0", "indivs": "64249"},
+                    {"org_name": "Blackstone Group", "total": "51200", "pacs": "2500", "indivs": "48700"},
+                    {"org_name": "Elliott Management", "total": "47900", "pacs": "0", "indivs": "47900"},
+                    {"org_name": "BAE Systems", "total": "46400", "pacs": "9500", "indivs": "36900"},
+                    {"org_name": "Pvs Chemicals", "total": "46000", "pacs": "0", "indivs": "46000"},
+                    {"org_name": "Raytheon Co", "total": "45575", "pacs": "9000", "indivs": "36575"},
+                    {"org_name": "Morgan Stanley", "total": "39350", "pacs": "0", "indivs": "39350"}
+                ]
+            }
+        ]
+    },
+    "California":{
+        "senators": [ 
+            {
+                "cand_name":"Dianne Feinstein",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "EMILY's List", "total": "61360", "pacs": "5000", "indivs": "56360"},
+                    {"org_name": "Edison International", "total": "59300", "pacs": "6800", "indivs": "52500"},
+                    {"org_name": "Pisces Inc", "total": "40500", "pacs": "0", "indivs": "40500"},
+                    {"org_name": "PG&E Corp", "total": "32900", "pacs": "10000", "indivs": "22900"},
+                    {"org_name": "University of California", "total": "32539", "pacs": "0", "indivs": "32539"},
+                    {"org_name": "Sweetgreen", "total": "25000", "pacs": "0", "indivs": "25000"},
+                    {"org_name": "Baker, Donelson et al", "total": "24100", "pacs": "9500", "indivs": "14600"},
+                    {"org_name": "Holland & Knight", "total": "22000", "pacs": "9000", "indivs": "13000"},
+                    {"org_name": "Walt Disney Co", "total": "21375", "pacs": "10000", "indivs": "11375"},
+                    {"org_name": "General Atomics", "total": "21275", "pacs": "10000", "indivs": "11275"}
+                ]
+            },
+            {
+                "cand_name":"Kamala Harris",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Time Warner", "total": "129396", "pacs": "1000", "indivs": "128396"},
+                    {"org_name": "21st Century Fox", "total": "89576", "pacs": "0", "indivs": "89576"},
+                    {"org_name": "Venable LLP", "total": "89195", "pacs": "0", "indivs": "89195"},
+                    {"org_name": "Alphabet Inc", "total": "88517", "pacs": "10000", "indivs": "78517"},
+                    {"org_name": "Creative Artists Agency", "total": "86238", "pacs": "0", "indivs": "86238"},
+                    {"org_name": "University of California", "total": "75245", "pacs": "0", "indivs": "75245"},
+                    {"org_name": "Cisco Systems", "total": "53461", "pacs": "5000", "indivs": "48461"},
+                    {"org_name": "Apple Inc", "total": "48818", "pacs": "0", "indivs": "48818"},
+                    {"org_name": "National Amusements Inc", "total": "45630", "pacs": "0", "indivs": "45630"},
+                    {"org_name": "Votesane PAC", "total": "45300", "pacs": "0", "indivs": "45300"}
+                ]
+            }
+        ]
+    },
+    "Colorado":{
+        "senators": [ 
+            {
+                "cand_name":"Cory Gardner",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "97552", "pacs": "0", "indivs": "97552"},
+                    {"org_name": "Elliott Management", "total": "53700", "pacs": "0", "indivs": "53700"},
+                    {"org_name": "Anadarko Petroleum", "total": "43000", "pacs": "10000", "indivs": "33000"},
+                    {"org_name": "Koch Industries", "total": "42200", "pacs": "10000", "indivs": "32200"},
+                    {"org_name": "Brownstein, Hyatt et al", "total": "39100", "pacs": "2000", "indivs": "37100"},
+                    {"org_name": "Wells Fargo", "total": "34905", "pacs": "15000", "indivs": "19905"},
+                    {"org_name": "Anschutz Corp", "total": "28200", "pacs": "0", "indivs": "28200"},
+                    {"org_name": "Noble Energy", "total": "27100", "pacs": "6000", "indivs": "21100"},
+                    {"org_name": "BGR Group", "total": "26802", "pacs": "6602", "indivs": "20200"},
+                    {"org_name": "Land Title Guarantee Co", "total": "26300", "pacs": "0", "indivs": "26300"}
+                ]
+            },
+            {
+                "cand_name":"Michael F. Bennet",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "292605", "pacs": "7999", "indivs": "284606"},
+                    {"org_name": "Votesane PAC", "total": "122000", "pacs": "0", "indivs": "122000"},
+                    {"org_name": "Blackstone Group", "total": "109200", "pacs": "3000", "indivs": "106200"},
+                    {"org_name": "University of Colorado", "total": "105611", "pacs": "0", "indivs": "105611"},
+                    {"org_name": "Akin, Gump et al", "total": "94136", "pacs": "8578", "indivs": "85558"},
+                    {"org_name": "Pershing Square Capital Management", "total": "86300", "pacs": "0", "indivs": "86300"},
+                    {"org_name": "Oaktree Capital Management", "total": "82000", "pacs": "0", "indivs": "82000"},
+                    {"org_name": "Brownstein, Hyatt et al", "total": "72520", "pacs": "7500", "indivs": "65020"},
+                    {"org_name": "Breckenridge Grand Vacations", "total": "70200", "pacs": "0", "indivs": "70200"},
+                    {"org_name": "Goldman Sachs", "total": "69600", "pacs": "8000", "indivs": "61600"}
+                ]
+            }
+        ]
+    },
+    "Connecticut":{
+        "senators": [ 
+            {
+                "cand_name":"Christopher S. Murphy",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Yale University", "total": "77394", "pacs": "0", "indivs": "77394"},
+                    {"org_name": "Paul, Weiss et al", "total": "59155", "pacs": "0", "indivs": "59155"},
+                    {"org_name": "J Street", "total": "58455", "pacs": "0", "indivs": "58455"},
+                    {"org_name": "Sullivan & Cromwell", "total": "42850", "pacs": "0", "indivs": "42850"},
+                    {"org_name": "JPMorgan Chase & Co", "total": "37295", "pacs": "2500", "indivs": "34795"},
+                    {"org_name": "Goldman Sachs", "total": "29635", "pacs": "5000", "indivs": "24635"},
+                    {"org_name": "Harvard University", "total": "27873", "pacs": "0", "indivs": "27873"},
+                    {"org_name": "General Electric", "total": "26615", "pacs": "8000", "indivs": "18615"},
+                    {"org_name": "Time Warner", "total": "25195", "pacs": "1000", "indivs": "24195"},
+                    {"org_name": "Simmons Hanly Conroy", "total": "25000", "pacs": "0", "indivs": "25000"}
+                ]
+            },
+            {
+                "cand_name":"Richard Blumenthal",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "BlackRock Inc", "total": "51700", "pacs": "5000", "indivs": "46700"},
+                    {"org_name": "Charter Communications", "total": "51100", "pacs": "14500", "indivs": "36600"},
+                    {"org_name": "Simmons Hanly Conroy", "total": "37200", "pacs": "0", "indivs": "37200"},
+                    {"org_name": "Koskoff, Koskoff & Bieder", "total": "35802", "pacs": "0", "indivs": "35802"},
+                    {"org_name": "Altice USA", "total": "35300", "pacs": "15000", "indivs": "20300"},
+                    {"org_name": "Granite Telecommunications", "total": "34400", "pacs": "0", "indivs": "34400"},
+                    {"org_name": "General Dynamics", "total": "33635", "pacs": "10000", "indivs": "23635"},
+                    {"org_name": "United Technologies", "total": "32880", "pacs": "10000", "indivs": "22880"},
+                    {"org_name": "Early, Lucarelli et al", "total": "32392", "pacs": "0", "indivs": "32392"},
+                    {"org_name": "Motley Rice LLC", "total": "30750", "pacs": "0", "indivs": "30750"}
+                ]
+            }
+        ]
+    },
+    "Delaware":{
+        "senators": [ 
+            {
+                "cand_name":"Chris Coons",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Young, Conaway et al", "total": "66000", "pacs": "0", "indivs": "66000"},
+                    {"org_name": "DowDuPont", "total": "44925", "pacs": "17000", "indivs": "27925"},
+                    {"org_name": "Grant & Eisenhofer", "total": "44399", "pacs": "0", "indivs": "44399"},
+                    {"org_name": "Pachulski, Stang et al", "total": "39900", "pacs": "0", "indivs": "39900"},
+                    {"org_name": "Citigroup Inc", "total": "38300", "pacs": "7000", "indivs": "31300"},
+                    {"org_name": "Democracy Engine", "total": "35362", "pacs": "0", "indivs": "35362"},
+                    {"org_name": "Skadden, Arps et al", "total": "34150", "pacs": "0", "indivs": "34150"},
+                    {"org_name": "Morris, Nichols et al", "total": "32000", "pacs": "0", "indivs": "32000"},
+                    {"org_name": "Paul, Weiss et al", "total": "31850", "pacs": "0", "indivs": "31850"},
+                    {"org_name": "Comcast Corp", "total": "30300", "pacs": "9000", "indivs": "21300"}
+                ]
+            },
+            {
+                "cand_name":"Tom Carper",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "MetLife Inc", "total": "57700", "pacs": "8500", "indivs": "49200"},
+                    {"org_name": "Discover Financial Services", "total": "28500", "pacs": "10000", "indivs": "18500"},
+                    {"org_name": "DowDuPont", "total": "25388", "pacs": "20000", "indivs": "5388"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "23300", "pacs": "22500", "indivs": "800"},
+                    {"org_name": "Kleiner, Perkins et al", "total": "18900", "pacs": "0", "indivs": "18900"},
+                    {"org_name": "Merck & Co", "total": "17750", "pacs": "8500", "indivs": "9250"},
+                    {"org_name": "King & Spalding", "total": "14610", "pacs": "5000", "indivs": "9610"},
+                    {"org_name": "Wells Fargo", "total": "14400", "pacs": "10000", "indivs": "4400"},
+                    {"org_name": "Credit Suisse Group", "total": "13500", "pacs": "13500", "indivs": "0"},
+                    {"org_name": "Deloitte LLP", "total": "11500", "pacs": "10000", "indivs": "1500"}
+                ]
+            }
+        ]
+    },
+    "Florida":{
+        "senators": [ 
+            {
+                "cand_name":"Bill Nelson",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Harris Corp", "total": "92875", "pacs": "11000", "indivs": "81875"},
+                    {"org_name": "Amscot Financial", "total": "46800", "pacs": "0", "indivs": "46800"},
+                    {"org_name": "Akerman LLP", "total": "46550", "pacs": "10000", "indivs": "36550"},
+                    {"org_name": "Akin, Gump et al", "total": "45255", "pacs": "5153", "indivs": "40102"},
+                    {"org_name": "Leon Medical Centers", "total": "44600", "pacs": "0", "indivs": "44600"},
+                    {"org_name": "Comcast Corp", "total": "40055", "pacs": "7500", "indivs": "32555"},
+                    {"org_name": "Delta Air Lines", "total": "38580", "pacs": "10000", "indivs": "28580"},
+                    {"org_name": "Carnival Corp", "total": "37500", "pacs": "20000", "indivs": "17500"},
+                    {"org_name": "Charter Communications", "total": "36240", "pacs": "10000", "indivs": "26240"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "34274", "pacs": "23488", "indivs": "10786"}
+                ]
+            },
+            {
+                "cand_name":"Marco Rubio",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "286780", "pacs": "25", "indivs": "286755"},
+                    {"org_name": "Elliott Management", "total": "197100", "pacs": "0", "indivs": "197100"},
+                    {"org_name": "The Villages", "total": "93900", "pacs": "0", "indivs": "93900"},
+                    {"org_name": "Fanjul Corp", "total": "93760", "pacs": "0", "indivs": "93760"},
+                    {"org_name": "Blackstone Group", "total": "93100", "pacs": "0", "indivs": "93100"},
+                    {"org_name": "Nextera Energy", "total": "70500", "pacs": "10000", "indivs": "60500"},
+                    {"org_name": "Greenberg Traurig LLP", "total": "60925", "pacs": "2500", "indivs": "58425"},
+                    {"org_name": "Agree Realty", "total": "54000", "pacs": "0", "indivs": "54000"},
+                    {"org_name": "Pence Group", "total": "54000", "pacs": "0", "indivs": "54000"},
+                    {"org_name": "Cerberus Capital Management", "total": "50850", "pacs": "4500", "indivs": "46350"}
+                ]
+            }
+        ]
+    },
+    "Georgia":{
+        "senators": [ 
+            {
+                "cand_name":"David Perdue",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "99252", "pacs": "0", "indivs": "99252"},
+                    {"org_name": "Southern Co", "total": "52300", "pacs": "17500", "indivs": "34800"},
+                    {"org_name": "KPMG LLP", "total": "47200", "pacs": "15000", "indivs": "32200"},
+                    {"org_name": "Delta Air Lines", "total": "46000", "pacs": "10000", "indivs": "36000"},
+                    {"org_name": "Koch Industries", "total": "43750", "pacs": "5000", "indivs": "38750"},
+                    {"org_name": "Home Depot", "total": "43650", "pacs": "15000", "indivs": "28650"},
+                    {"org_name": "AFLAC Inc", "total": "40850", "pacs": "17500", "indivs": "23350"},
+                    {"org_name": "Southeastern Minerals", "total": "39200", "pacs": "0", "indivs": "39200"},
+                    {"org_name": "Wendy's Co", "total": "39100", "pacs": "2500", "indivs": "36600"},
+                    {"org_name": "Cox Enterprises", "total": "38700", "pacs": "8500", "indivs": "30200"}
+                ]
+            },
+            {
+                "cand_name":"Johnny Isakson",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "182200", "pacs": "0", "indivs": "182200"},
+                    {"org_name": "Home Depot", "total": "172250", "pacs": "8000", "indivs": "164250"},
+                    {"org_name": "Southern Co", "total": "83650", "pacs": "12500", "indivs": "71150"},
+                    {"org_name": "United Parcel Service", "total": "78650", "pacs": "10000", "indivs": "68650"},
+                    {"org_name": "Primerica Inc", "total": "74550", "pacs": "10000", "indivs": "64550"},
+                    {"org_name": "Delta Air Lines", "total": "69825", "pacs": "12500", "indivs": "57325"},
+                    {"org_name": "AFLAC Inc", "total": "57850", "pacs": "10000", "indivs": "47850"},
+                    {"org_name": "King & Spalding", "total": "56500", "pacs": "5000", "indivs": "51500"},
+                    {"org_name": "MetLife Inc", "total": "46000", "pacs": "8000", "indivs": "38000"},
+                    {"org_name": "Cox Enterprises", "total": "43800", "pacs": "12200", "indivs": "31600"}
+                ]
+            }
+        ]
+    },
+    "Hawaii":{
+        "senators": [ 
+            {
+                "cand_name":"Brian Schatz",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "193797", "pacs": "19369", "indivs": "174428"},
+                    {"org_name": "J Street", "total": "110010", "pacs": "4500", "indivs": "105510"},
+                    {"org_name": "Navatek Ltd", "total": "80100", "pacs": "0", "indivs": "80100"},
+                    {"org_name": "Alexander & Baldwin", "total": "58200", "pacs": "12400", "indivs": "45800"},
+                    {"org_name": "Kobayashi, Sugita & Goda", "total": "56493", "pacs": "0", "indivs": "56493"},
+                    {"org_name": "WPP Group", "total": "54850", "pacs": "12600", "indivs": "42250"},
+                    {"org_name": "Comcast Corp", "total": "49900", "pacs": "20000", "indivs": "29900"},
+                    {"org_name": "Alston, Hunt et al", "total": "48550", "pacs": "0", "indivs": "48550"},
+                    {"org_name": "BNP Paribas", "total": "48300", "pacs": "5700", "indivs": "42600"},
+                    {"org_name": "Kobayashi Group", "total": "43300", "pacs": "0", "indivs": "43300"}
+                ]
+            },
+            {
+                "cand_name":"Mazie K. Hirono",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Alexander & Baldwin", "total": "48400", "pacs": "10000", "indivs": "38400"},
+                    {"org_name": "Kobayashi, Sugita & Goda", "total": "38650", "pacs": "0", "indivs": "38650"},
+                    {"org_name": "EMILY's List", "total": "36133", "pacs": "5000", "indivs": "31133"},
+                    {"org_name": "Pop Fishing & Marine", "total": "23800", "pacs": "0", "indivs": "23800"},
+                    {"org_name": "Alston & Bird", "total": "20350", "pacs": "10000", "indivs": "10350"},
+                    {"org_name": "Intellectual Ventures LLC", "total": "20000", "pacs": "10000", "indivs": "10000"},
+                    {"org_name": "Comcast Corp", "total": "18400", "pacs": "10000", "indivs": "8400"},
+                    {"org_name": "Rm Towill Corp", "total": "16700", "pacs": "0", "indivs": "16700"},
+                    {"org_name": "State of Hawaii", "total": "14580", "pacs": "0", "indivs": "14580"},
+                    {"org_name": "Carlsmith Ball LLP", "total": "13350", "pacs": "0", "indivs": "13350"}
+                ]
+            }
+        ]
+    },
+    "Iowa":{
+        "senators": [ 
+            {
+                "cand_name":"Chuck Grassley",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "105500", "pacs": "0", "indivs": "105500"},
+                    {"org_name": "DCI Group", "total": "41837", "pacs": "8987", "indivs": "32850"},
+                    {"org_name": "WilmerHale Llp", "total": "36150", "pacs": "0", "indivs": "36150"},
+                    {"org_name": "Blackstone Group", "total": "34000", "pacs": "1000", "indivs": "33000"},
+                    {"org_name": "Sukup Manufacturing", "total": "32500", "pacs": "0", "indivs": "32500"},
+                    {"org_name": "DISH Network", "total": "31600", "pacs": "10000", "indivs": "21600"},
+                    {"org_name": "NextEra Energy", "total": "31500", "pacs": "10000", "indivs": "21500"},
+                    {"org_name": "alliantgroup", "total": "31350", "pacs": "0", "indivs": "31350"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "30200", "pacs": "26250", "indivs": "3950"},
+                    {"org_name": "Iowa Select Farms", "total": "29700", "pacs": "0", "indivs": "29700"}
+                ]
+            },
+            {
+                "cand_name":"Joni Ernst",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Senate Conservatives Fund", "total": "35344", "pacs": "10000", "indivs": "25344"},
+                    {"org_name": "Duty Free Americas", "total": "34900", "pacs": "0", "indivs": "34900"},
+                    {"org_name": "HJ Kalikow & Co", "total": "21600", "pacs": "0", "indivs": "21600"},
+                    {"org_name": "Ariel Corp", "total": "21200", "pacs": "0", "indivs": "21200"},
+                    {"org_name": "Renaissance Technologies", "total": "21200", "pacs": "0", "indivs": "21200"},
+                    {"org_name": "Hy-Vee Inc", "total": "16000", "pacs": "15000", "indivs": "1000"},
+                    {"org_name": "USAA", "total": "16000", "pacs": "15000", "indivs": "1000"},
+                    {"org_name": "PricewaterhouseCoopers", "total": "15500", "pacs": "15000", "indivs": "500"},
+                    {"org_name": "Berkshire Hathaway", "total": "15350", "pacs": "4500", "indivs": "10850"},
+                    {"org_name": "Chemorse Ltd", "total": "13500", "pacs": "0", "indivs": "13500"}
+                ]
+            }
+        ]
+    },
+    "Idaho":{
+        "senators": [ 
+            {
+                "cand_name":"James E. Risch",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Sinclair Companies", "total": "21400", "pacs": "0", "indivs": "21400"},
+                    {"org_name": "Seacoast Commerce Bank", "total": "21300", "pacs": "0", "indivs": "21300"},
+                    {"org_name": "Idacorp Inc", "total": "15500", "pacs": "15000", "indivs": "500"},
+                    {"org_name": "American Lighting Assn", "total": "13332", "pacs": "13332", "indivs": "0"},
+                    {"org_name": "Denali Leadership PAC", "total": "13000", "pacs": "13000", "indivs": "0"},
+                    {"org_name": "National Assn of Development Companies", "total": "11500", "pacs": "11500", "indivs": "0"},
+                    {"org_name": "Chevron Corp", "total": "11250", "pacs": "10000", "indivs": "1250"},
+                    {"org_name": "Sinclair Oil", "total": "11100", "pacs": "0", "indivs": "11100"},
+                    {"org_name": "National Assn of Govt Guaranteed Lenders", "total": "11000", "pacs": "11000", "indivs": "0"},
+                    {"org_name": "Potlatch Corp", "total": "11000", "pacs": "7500", "indivs": "3500"}
+                ]
+            },
+            {
+                "cand_name":"Mike Crapo",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Stephens Group", "total": "81200", "pacs": "0", "indivs": "81200"},
+                    {"org_name": "DaVita HealthCare Partners", "total": "75100", "pacs": "9500", "indivs": "65600"},
+                    {"org_name": "Votesane PAC", "total": "70650", "pacs": "0", "indivs": "70650"},
+                    {"org_name": "Capital Group", "total": "62100", "pacs": "0", "indivs": "62100"},
+                    {"org_name": "Sullivan & Cromwell", "total": "48250", "pacs": "0", "indivs": "48250"},
+                    {"org_name": "Watco Companies", "total": "48200", "pacs": "0", "indivs": "48200"},
+                    {"org_name": "Apollo Global Management", "total": "45100", "pacs": "0", "indivs": "45100"},
+                    {"org_name": "Carlyle Group", "total": "43200", "pacs": "0", "indivs": "43200"},
+                    {"org_name": "MetLife Inc", "total": "42250", "pacs": "4500", "indivs": "37750"},
+                    {"org_name": "Capital Group Companies", "total": "38900", "pacs": "20000", "indivs": "18900"}
+                ]
+            }
+        ]
+    },
+    "Illinois":{
+        "senators": [ 
+            {
+                "cand_name":"Dick Durbin",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Simmons Law Firm", "total": "97700", "pacs": "0", "indivs": "97700"},
+                    {"org_name": "Cooney & Conway", "total": "88200", "pacs": "0", "indivs": "88200"},
+                    {"org_name": "Northrop Grumman", "total": "62035", "pacs": "8000", "indivs": "54035"},
+                    {"org_name": "United Technologies", "total": "56500", "pacs": "12500", "indivs": "44000"},
+                    {"org_name": "BAE Systems", "total": "53752", "pacs": "15499", "indivs": "38253"},
+                    {"org_name": "Boeing Co", "total": "48565", "pacs": "10500", "indivs": "38065"},
+                    {"org_name": "Jenner & Block", "total": "45580", "pacs": "0", "indivs": "45580"},
+                    {"org_name": "Power, Rogers & Smith", "total": "44983", "pacs": "0", "indivs": "44983"},
+                    {"org_name": "State of Illinois", "total": "43061", "pacs": "0", "indivs": "43061"},
+                    {"org_name": "J Street", "total": "39300", "pacs": "5000", "indivs": "34300"}
+                ]
+            },
+            {
+                "cand_name":"Tammy Duckworth",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "EMILY's List", "total": "427935", "pacs": "10000", "indivs": "417935"},
+                    {"org_name": "J Street", "total": "191600", "pacs": "4943", "indivs": "186657"},
+                    {"org_name": "League of Conservation Voters", "total": "176318", "pacs": "10000", "indivs": "166318"},
+                    {"org_name": "Simmons Hanly Conroy", "total": "127275", "pacs": "0", "indivs": "127275"},
+                    {"org_name": "Council for a Livable World", "total": "45087", "pacs": "0", "indivs": "45087"},
+                    {"org_name": "Willis Group Holdings", "total": "33819", "pacs": "0", "indivs": "33819"},
+                    {"org_name": "Cooney & Conway", "total": "31450", "pacs": "0", "indivs": "31450"},
+                    {"org_name": "Northwestern University", "total": "30527", "pacs": "0", "indivs": "30527"},
+                    {"org_name": "Exelon Corp", "total": "28517", "pacs": "9000", "indivs": "19517"},
+                    {"org_name": "Womencount PAC", "total": "28063", "pacs": "878", "indivs": "27185"}
+                ]
+            }
+        ]
+    },
+    "Indiana":{
+        "senators": [ 
+            {
+                "cand_name":"Joe Donnelly",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "278887", "pacs": "0", "indivs": "278887"},
+                    {"org_name": "Signature Bank", "total": "56750", "pacs": "0", "indivs": "56750"},
+                    {"org_name": "Williams Kherkher", "total": "43200", "pacs": "0", "indivs": "43200"},
+                    {"org_name": "Eli Lilly & Co", "total": "39676", "pacs": "10000", "indivs": "29676"},
+                    {"org_name": "Faegre Baker Daniels", "total": "35261", "pacs": "10000", "indivs": "25261"},
+                    {"org_name": "Barnes & Thornburg", "total": "30686", "pacs": "3000", "indivs": "27686"},
+                    {"org_name": "Arnold & Itkin", "total": "27000", "pacs": "0", "indivs": "27000"},
+                    {"org_name": "Land O'Lakes", "total": "26900", "pacs": "10000", "indivs": "16900"},
+                    {"org_name": "Capital Group Companies", "total": "25500", "pacs": "10000", "indivs": "15500"},
+                    {"org_name": "WPP Group", "total": "24550", "pacs": "6050", "indivs": "18500"}
+                ]
+            },
+            {
+                "cand_name":"Todd Young",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "187000", "pacs": "0", "indivs": "187000"},
+                    {"org_name": "Hanning & Bean Enterprises", "total": "145400", "pacs": "0", "indivs": "145400"},
+                    {"org_name": "Milestone Contractors", "total": "89700", "pacs": "0", "indivs": "89700"},
+                    {"org_name": "DaVita HealthCare Partners", "total": "88800", "pacs": "9000", "indivs": "79800"},
+                    {"org_name": "Amway/Alticor Inc", "total": "83000", "pacs": "2000", "indivs": "81000"},
+                    {"org_name": "Eli Lilly & Co", "total": "78250", "pacs": "10000", "indivs": "68250"},
+                    {"org_name": "Barnes & Thornburg", "total": "50700", "pacs": "2000", "indivs": "48700"},
+                    {"org_name": "Koch Enterprises", "total": "49800", "pacs": "0", "indivs": "49800"},
+                    {"org_name": "Pacers Sports & Entertainment", "total": "48650", "pacs": "0", "indivs": "48650"},
+                    {"org_name": "Padgett Inc", "total": "48600", "pacs": "0", "indivs": "48600"}
+                ]
+            }
+        ]
+    },
+    "Kansas":{
+        "senators": [ 
+            {
+                "cand_name":"Jerry Moran",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Ciciora Custom Homes", "total": "55100", "pacs": "0", "indivs": "55100"},
+                    {"org_name": "Burns & McDonnell", "total": "47800", "pacs": "10000", "indivs": "37800"},
+                    {"org_name": "Union Pacific Corp", "total": "38275", "pacs": "10000", "indivs": "28275"},
+                    {"org_name": "Berkshire Hathaway", "total": "36550", "pacs": "10000", "indivs": "26550"},
+                    {"org_name": "Koch Industries", "total": "35550", "pacs": "10000", "indivs": "25550"},
+                    {"org_name": "Polsinelli PC", "total": "33625", "pacs": "5000", "indivs": "28625"},
+                    {"org_name": "Deloitte LLP", "total": "32200", "pacs": "10000", "indivs": "22200"},
+                    {"org_name": "Kansas City Southern", "total": "26455", "pacs": "14000", "indivs": "12455"},
+                    {"org_name": "Crawford Group", "total": "22200", "pacs": "5000", "indivs": "17200"},
+                    {"org_name": "Watco Companies", "total": "21850", "pacs": "0", "indivs": "21850"}
+                ]
+            },
+            {
+                "cand_name":"Pat Roberts",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Burns & McDonnell", "total": "106100", "pacs": "13000", "indivs": "93100"},
+                    {"org_name": "Votesane PAC", "total": "70000", "pacs": "0", "indivs": "70000"},
+                    {"org_name": "Koch Industries", "total": "46200", "pacs": "0", "indivs": "46200"},
+                    {"org_name": "Blackstone Group", "total": "42800", "pacs": "2500", "indivs": "40300"},
+                    {"org_name": "Citizens for Prosperity in America Today", "total": "29176", "pacs": "13576", "indivs": "15600"},
+                    {"org_name": "Novogradac & Co", "total": "26300", "pacs": "0", "indivs": "26300"},
+                    {"org_name": "Alston & Bird", "total": "25200", "pacs": "16000", "indivs": "9200"},
+                    {"org_name": "DaVita HealthCare Partners", "total": "24750", "pacs": "9000", "indivs": "15750"},
+                    {"org_name": "Crawford Group", "total": "24400", "pacs": "14000", "indivs": "10400"},
+                    {"org_name": "Club for Growth", "total": "23457", "pacs": "0", "indivs": "23457"}
+                ]
+            }
+        ]
+    },
+    "Kentucky":{
+        "senators": [ 
+            {
+                "cand_name":"Mitch McConnell",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Blackstone Group", "total": "221200", "pacs": "9000", "indivs": "212200"},
+                    {"org_name": "Goldman Sachs", "total": "107225", "pacs": "15000", "indivs": "92225"},
+                    {"org_name": "NorPAC", "total": "100151", "pacs": "-249", "indivs": "100400"},
+                    {"org_name": "Alliance Resource Partners", "total": "91150", "pacs": "5000", "indivs": "86150"},
+                    {"org_name": "Votesane PAC", "total": "81500", "pacs": "0", "indivs": "81500"},
+                    {"org_name": "DaVita HealthCare Partners", "total": "79875", "pacs": "7500", "indivs": "72375"},
+                    {"org_name": "Humana Inc", "total": "65450", "pacs": "10000", "indivs": "55450"},
+                    {"org_name": "MetLife Inc", "total": "63150", "pacs": "10000", "indivs": "53150"},
+                    {"org_name": "Massachusetts Mutual Life Insurance", "total": "58250", "pacs": "5500", "indivs": "52750"},
+                    {"org_name": "Brown-Forman Corp", "total": "57250", "pacs": "10000", "indivs": "47250"}
+                ]
+            },
+            {
+                "cand_name":"Rand Paul",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "67630", "pacs": "0", "indivs": "67630"},
+                    {"org_name": "Wexford Capital", "total": "33400", "pacs": "0", "indivs": "33400"},
+                    {"org_name": "Mason Capital Management", "total": "30200", "pacs": "0", "indivs": "30200"},
+                    {"org_name": "Murray Energy", "total": "28100", "pacs": "5000", "indivs": "23100"},
+                    {"org_name": "Brown-Forman Corp", "total": "26700", "pacs": "9000", "indivs": "17700"},
+                    {"org_name": "Charah Inc", "total": "25814", "pacs": "0", "indivs": "25814"},
+                    {"org_name": "G&J Pepsi-Cola Bottlers", "total": "21250", "pacs": "0", "indivs": "21250"},
+                    {"org_name": "Jennmar Corp", "total": "20600", "pacs": "0", "indivs": "20600"},
+                    {"org_name": "Reschini Group", "total": "20000", "pacs": "0", "indivs": "20000"},
+                    {"org_name": "Rock City PAC", "total": "20000", "pacs": "20000", "indivs": "0"}
+                ]
+            }
+        ]
+    },
+    "Louisiana":{
+        "senators": [ 
+            {
+                "cand_name":"Bill Cassidy",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Elliott Management", "total": "82300", "pacs": "0", "indivs": "82300"},
+                    {"org_name": "Edison Chouest Offshore", "total": "48100", "pacs": "0", "indivs": "48100"},
+                    {"org_name": "Gilead Sciences", "total": "47600", "pacs": "20000", "indivs": "27600"},
+                    {"org_name": "Cajun Industries", "total": "46800", "pacs": "0", "indivs": "46800"},
+                    {"org_name": "Koch Industries", "total": "46200", "pacs": "15000", "indivs": "31200"},
+                    {"org_name": "Blackstone Group", "total": "42000", "pacs": "0", "indivs": "42000"},
+                    {"org_name": "B&G Food Enterprises", "total": "41305", "pacs": "0", "indivs": "41305"},
+                    {"org_name": "Morris & Dickson", "total": "39600", "pacs": "0", "indivs": "39600"},
+                    {"org_name": "Ochsner Health System", "total": "38600", "pacs": "0", "indivs": "38600"},
+                    {"org_name": "Madden Contracting", "total": "36800", "pacs": "0", "indivs": "36800"}
+                ]
+            },
+            {
+                "cand_name":"John Kennedy",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Morris & Dickson", "total": "40500", "pacs": "0", "indivs": "40500"},
+                    {"org_name": "Atco Investment", "total": "37900", "pacs": "0", "indivs": "37900"},
+                    {"org_name": "Edison Chouest Offshore", "total": "34900", "pacs": "0", "indivs": "34900"},
+                    {"org_name": "Acadian Companies", "total": "34700", "pacs": "7500", "indivs": "27200"},
+                    {"org_name": "Johnson, Rice & Co", "total": "34600", "pacs": "0", "indivs": "34600"},
+                    {"org_name": "Latham & Watkins", "total": "34400", "pacs": "0", "indivs": "34400"},
+                    {"org_name": "Central Management", "total": "32400", "pacs": "0", "indivs": "32400"},
+                    {"org_name": "Ochsner Health System", "total": "31900", "pacs": "0", "indivs": "31900"},
+                    {"org_name": "Hri Properties", "total": "30500", "pacs": "0", "indivs": "30500"},
+                    {"org_name": "Bollinger Shipyards", "total": "28600", "pacs": "0", "indivs": "28600"}
+                ]
+            }
+        ]
+    },
+    "Massachusetts":{
+        "senators": [ 
+            {
+                "cand_name":"Ed Markey",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "215421", "pacs": "14481", "indivs": "200940"},
+                    {"org_name": "Mintz, Levin et al", "total": "97750", "pacs": "0", "indivs": "97750"},
+                    {"org_name": "Wilmerhale Llp", "total": "82700", "pacs": "0", "indivs": "82700"},
+                    {"org_name": "Bain Capital", "total": "73600", "pacs": "0", "indivs": "73600"},
+                    {"org_name": "Granite Telecommunications", "total": "72000", "pacs": "0", "indivs": "72000"},
+                    {"org_name": "Harvard University", "total": "71015", "pacs": "0", "indivs": "71015"},
+                    {"org_name": "Akin, Gump et al", "total": "68365", "pacs": "4263", "indivs": "64102"},
+                    {"org_name": "DLA Piper", "total": "66750", "pacs": "25500", "indivs": "41250"},
+                    {"org_name": "Rock Creek Group", "total": "48500", "pacs": "0", "indivs": "48500"},
+                    {"org_name": "Thornton Law Firm", "total": "47750", "pacs": "0", "indivs": "47750"}
+                ]
+            },
+            {
+                "cand_name":"Elizabeth Warren",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Womencount PAC", "total": "110472", "pacs": "3005", "indivs": "107467"},
+                    {"org_name": "EMILY's List", "total": "99846", "pacs": "5000", "indivs": "94846"},
+                    {"org_name": "Brown Rudnick LLP", "total": "65600", "pacs": "5000", "indivs": "60600"},
+                    {"org_name": "Harvard University", "total": "61687", "pacs": "0", "indivs": "61687"},
+                    {"org_name": "Lieff, Cabraser et al", "total": "39426", "pacs": "0", "indivs": "39426"},
+                    {"org_name": "University of California", "total": "33432", "pacs": "0", "indivs": "33432"},
+                    {"org_name": "Stanford University", "total": "30625", "pacs": "0", "indivs": "30625"},
+                    {"org_name": "Massachusetts Institute of Technology", "total": "27633", "pacs": "0", "indivs": "27633"},
+                    {"org_name": "Comcast Corp", "total": "27569", "pacs": "0", "indivs": "27569"},
+                    {"org_name": "Time Warner", "total": "24223", "pacs": "0", "indivs": "24223"}
+                ]
+            }
+        ]
+    }
+    "Maryland":{
+        "senators": [ 
+            {
+                "cand_name":"Ben Cardin",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "NorPAC", "total": "39700", "pacs": "0", "indivs": "39700"},
+                    {"org_name": "Lockheed Martin", "total": "33700", "pacs": "10000", "indivs": "23700"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "28275", "pacs": "10000", "indivs": "18275"},
+                    {"org_name": "Guardian Life Insurance", "total": "22250", "pacs": "8000", "indivs": "14250"},
+                    {"org_name": "Laureate Education", "total": "21600", "pacs": "0", "indivs": "21600"},
+                    {"org_name": "Select Medical Holdings", "total": "20000", "pacs": "10000", "indivs": "10000"},
+                    {"org_name": "Pakistani American Physicians PAC", "total": "19500", "pacs": "14750", "indivs": "4750"},
+                    {"org_name": "Northwestern Mutual", "total": "16750", "pacs": "8000", "indivs": "8750"},
+                    {"org_name": "Ernst & Young", "total": "16700", "pacs": "10000", "indivs": "6700"},
+                    {"org_name": "Discovery Inc", "total": "14500", "pacs": "0", "indivs": "14500"}
+                ]
+            },
+            {
+                "cand_name":"Chris Van Hollen",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "401550", "pacs": "0", "indivs": "401550"},
+                    {"org_name": "WilmerHale Llp", "total": "216250", "pacs": "0", "indivs": "216250"},
+                    {"org_name": "Arnold & Porter Kaye Scholer", "total": "212500", "pacs": "5000", "indivs": "207500"},
+                    {"org_name": "University of Maryland", "total": "168750", "pacs": "0", "indivs": "168750"},
+                    {"org_name": "Dentons", "total": "156051", "pacs": "0", "indivs": "156051"},
+                    {"org_name": "Arent Fox LLP", "total": "144400", "pacs": "7500", "indivs": "136900"},
+                    {"org_name": "US Dept of Health & Human Services", "total": "137742", "pacs": "0", "indivs": "137742"},
+                    {"org_name": "J Street", "total": "131925", "pacs": "0", "indivs": "131925"},
+                    {"org_name": "Venable LLP", "total": "127928", "pacs": "1000", "indivs": "126928"},
+                    {"org_name": "Skadden, Arps et al", "total": "113980", "pacs": "5000", "indivs": "108980"}
+                ]
+            }
+        ]
+    },
+    "Maine":{
+        "senators": [ 
+            {
+                "cand_name":"Angus King",
+                "party": "I",
+                "contributor":[
+                    {"org_name": "General Dynamics", "total": "37500", "pacs": "10000", "indivs": "27500"},
+                    {"org_name": "J Street", "total": "37015", "pacs": "0", "indivs": "37015"},
+                    {"org_name": "Paloma Partners", "total": "35500", "pacs": "0", "indivs": "35500"},
+                    {"org_name": "Unum Group", "total": "26750", "pacs": "10000", "indivs": "16750"},
+                    {"org_name": "League of Conservation Voters", "total": "24735", "pacs": "3000", "indivs": "21735"},
+                    {"org_name": "Bernstein Shur", "total": "19525", "pacs": "0", "indivs": "19525"},
+                    {"org_name": "Lee Auto Mall", "total": "17500", "pacs": "0", "indivs": "17500"},
+                    {"org_name": "Alphabet Inc", "total": "16600", "pacs": "8500", "indivs": "8100"},
+                    {"org_name": "Drummond Woodsum", "total": "14100", "pacs": "0", "indivs": "14100"},
+                    {"org_name": "Bowdoin College", "total": "11385", "pacs": "0", "indivs": "11385"}
+                ]
+            },
+            {
+                "cand_name":"Susan Collins",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "General Dynamics", "total": "57100", "pacs": "9000", "indivs": "48100"},
+                    {"org_name": "DLA Piper", "total": "53383", "pacs": "6000", "indivs": "47383"},
+                    {"org_name": "Elliott Management", "total": "46500", "pacs": "0", "indivs": "46500"},
+                    {"org_name": "Cohen Group", "total": "28883", "pacs": "0", "indivs": "28883"},
+                    {"org_name": "New Balance Athletic Shoe", "total": "27950", "pacs": "0", "indivs": "27950"},
+                    {"org_name": "Lions Gate Entertainment", "total": "24850", "pacs": "0", "indivs": "24850"},
+                    {"org_name": "NorPAC", "total": "24500", "pacs": "1000", "indivs": "23500"},
+                    {"org_name": "FedEx Corp", "total": "21900", "pacs": "10500", "indivs": "11400"},
+                    {"org_name": "Kleinberg, Kaplan et al", "total": "19473", "pacs": "0", "indivs": "19473"},
+                    {"org_name": "Deloitte LLP", "total": "19250", "pacs": "9000", "indivs": "10250"}
+                ]
+            }
+        ]
+    },
+    "Michigan":{
+        "senators": [ 
+            {
+                "cand_name":"Debbie Stabenow",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "100500", "pacs": "0", "indivs": "100500"},
+                    {"org_name": "EMILY's List", "total": "88800", "pacs": "5020", "indivs": "83780"},
+                    {"org_name": "DowDuPont", "total": "88331", "pacs": "17500", "indivs": "70831"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "69685", "pacs": "4000", "indivs": "65685"},
+                    {"org_name": "University of Michigan", "total": "61548", "pacs": "0", "indivs": "61548"},
+                    {"org_name": "DTE Energy", "total": "58850", "pacs": "8000", "indivs": "50850"},
+                    {"org_name": "Rock Holdings", "total": "54800", "pacs": "10000", "indivs": "44800"},
+                    {"org_name": "Paul, Weiss et al", "total": "45950", "pacs": "0", "indivs": "45950"},
+                    {"org_name": "NorPAC", "total": "40000", "pacs": "0", "indivs": "40000"},
+                    {"org_name": "Goldman Sachs", "total": "39995", "pacs": "10000", "indivs": "29995"}
+                ]
+            },
+            {
+                "cand_name":"Gary Peters",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "338774", "pacs": "9332", "indivs": "329442"},
+                    {"org_name": "University of Michigan", "total": "129842", "pacs": "0", "indivs": "129842"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "114810", "pacs": "17500", "indivs": "97310"},
+                    {"org_name": "General Dynamics", "total": "99950", "pacs": "10000", "indivs": "89950"},
+                    {"org_name": "Impact", "total": "93200", "pacs": "10000", "indivs": "83200"},
+                    {"org_name": "Votesane PAC", "total": "88600", "pacs": "0", "indivs": "88600"},
+                    {"org_name": "Form G Tech", "total": "85900", "pacs": "0", "indivs": "85900"},
+                    {"org_name": "Voices for Progress", "total": "70413", "pacs": "6413", "indivs": "64000"},
+                    {"org_name": "Goldman Sachs", "total": "61700", "pacs": "11500", "indivs": "50200"},
+                    {"org_name": "Rock Holdings", "total": "55455", "pacs": "12500", "indivs": "42955"}
+                ]
+            }
+        ]
+    },
+    "Minnesota":{
+        "senators": [ 
+            {
+                "cand_name":"Amy Klobuchar",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Delta Air Lines", "total": "58569", "pacs": "10000", "indivs": "48569"},
+                    {"org_name": "Dorsey & Whitney", "total": "46200", "pacs": "4750", "indivs": "41450"},
+                    {"org_name": "Land O'Lakes", "total": "41005", "pacs": "7500", "indivs": "33505"},
+                    {"org_name": "Target Corp", "total": "39360", "pacs": "7000", "indivs": "32360"},
+                    {"org_name": "US Bancorp", "total": "38120", "pacs": "3500", "indivs": "34620"},
+                    {"org_name": "Cargill Inc", "total": "38050", "pacs": "6500", "indivs": "31550"},
+                    {"org_name": "Xcel Energy", "total": "34560", "pacs": "10000", "indivs": "24560"},
+                    {"org_name": "Wachtell, Lipton et al", "total": "33250", "pacs": "0", "indivs": "33250"},
+                    {"org_name": "Walt Disney Co", "total": "29826", "pacs": "5000", "indivs": "24826"},
+                    {"org_name": "Lockridge Grindal Nauen PLLP", "total": "29248", "pacs": "9998", "indivs": "19250"}
+                ]
+            },
+            {
+                "cand_name":"Tina Smith",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "MBA Strategies", "total": "29700", "pacs": "0", "indivs": "29700"},
+                    {"org_name": "QBE Insurance Group", "total": "29700", "pacs": "0", "indivs": "29700"},
+                    {"org_name": "Heins, Mills & Olson", "total": "11800", "pacs": "0", "indivs": "11800"},
+                    {"org_name": "Lockridge Grindal Nauen PLLP", "total": "10800", "pacs": "0", "indivs": "10800"},
+                    {"org_name": "Impact", "total": "10000", "pacs": "10000", "indivs": "0"},
+                    {"org_name": "WomenWinning", "total": "10000", "pacs": "10000", "indivs": "0"},
+                    {"org_name": "Insound Medical", "total": "5400", "pacs": "0", "indivs": "5400"},
+                    {"org_name": "North Corp", "total": "5400", "pacs": "0", "indivs": "5400"},
+                    {"org_name": "Rochschild North America", "total": "5400", "pacs": "0", "indivs": "5400"},
+                    {"org_name": "Stone Arch Capital", "total": "5400", "pacs": "0", "indivs": "5400"}
+                ]
+            }
+        ]
+    },
+    "Missouri":{
+        "senators": [ 
+            {
+                "cand_name":"Claire McCaskill",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "EMILY's List", "total": "327006", "pacs": "5000", "indivs": "322006"},
+                    {"org_name": "Centene Corp", "total": "271598", "pacs": "10000", "indivs": "261598"},
+                    {"org_name": "Simmons Hanly Conroy", "total": "219300", "pacs": "0", "indivs": "219300"},
+                    {"org_name": "Votesane PAC", "total": "138500", "pacs": "0", "indivs": "138500"},
+                    {"org_name": "Washington University", "total": "132846", "pacs": "0", "indivs": "132846"},
+                    {"org_name": "University of Missouri", "total": "113807", "pacs": "0", "indivs": "113807"},
+                    {"org_name": "Bryan Cave LLP", "total": "110961", "pacs": "10000", "indivs": "100961"},
+                    {"org_name": "Womencount PAC", "total": "76565", "pacs": "0", "indivs": "76565"},
+                    {"org_name": "NorPAC", "total": "73150", "pacs": "0", "indivs": "73150"},
+                    {"org_name": "Capital Group Companies", "total": "64000", "pacs": "10000", "indivs": "54000"}
+                ]
+            },
+            {
+                "cand_name":"Roy Blunt",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Crawford Group", "total": "113100", "pacs": "7500", "indivs": "105600"},
+                    {"org_name": "Monsanto Co", "total": "92900", "pacs": "10000", "indivs": "82900"},
+                    {"org_name": "Goldman Sachs", "total": "79650", "pacs": "7500", "indivs": "72150"},
+                    {"org_name": "Jones Financial Companies", "total": "73300", "pacs": "4000", "indivs": "69300"},
+                    {"org_name": "Capital One Financial", "total": "64800", "pacs": "10000", "indivs": "54800"},
+                    {"org_name": "General Electric", "total": "62985", "pacs": "10000", "indivs": "52985"},
+                    {"org_name": "Blackstone Group", "total": "56500", "pacs": "5000", "indivs": "51500"},
+                    {"org_name": "Boeing Co", "total": "55291", "pacs": "10000", "indivs": "45291"},
+                    {"org_name": "Bryan Cave LLP", "total": "54840", "pacs": "7500", "indivs": "47340"},
+                    {"org_name": "Emerson Electric", "total": "52100", "pacs": "7500", "indivs": "44600"}
+                ]
+            }
+        ]
+    },
+    "Mississippi":{
+        "senators": [ 
+            {
+                "cand_name":"Roger Wicker",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Berkshire Hathaway", "total": "40000", "pacs": "10000", "indivs": "30000"},
+                    {"org_name": "Fresenius Medical Care", "total": "39500", "pacs": "3500", "indivs": "36000"},
+                    {"org_name": "Cox Enterprises", "total": "31000", "pacs": "10000", "indivs": "21000"},
+                    {"org_name": "NorPAC", "total": "29720", "pacs": "-500", "indivs": "30220"},
+                    {"org_name": "Telapex Inc", "total": "29500", "pacs": "2500", "indivs": "27000"},
+                    {"org_name": "General Atomics", "total": "24250", "pacs": "7500", "indivs": "16750"},
+                    {"org_name": "Novogradac & Co", "total": "24100", "pacs": "0", "indivs": "24100"},
+                    {"org_name": "Sanderson Farms", "total": "22900", "pacs": "0", "indivs": "22900"},
+                    {"org_name": "Dunlap & Kyle", "total": "21600", "pacs": "0", "indivs": "21600"},
+                    {"org_name": "DISH Network", "total": "21500", "pacs": "8200", "indivs": "13300"}
+                ]
+            },
+            {
+                "cand_name":"Thad Cochran",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Telapex Inc", "total": "64800", "pacs": "13100", "indivs": "51700"},
+                    {"org_name": "General Atomics", "total": "58700", "pacs": "13000", "indivs": "45700"},
+                    {"org_name": "Tenax Aerospace", "total": "51700", "pacs": "0", "indivs": "51700"},
+                    {"org_name": "Boeing Co", "total": "44300", "pacs": "15000", "indivs": "29300"},
+                    {"org_name": "Votesane PAC", "total": "43500", "pacs": "0", "indivs": "43500"},
+                    {"org_name": "Sanderson Farms", "total": "41400", "pacs": "0", "indivs": "41400"},
+                    {"org_name": "Baker, Donelson et al", "total": "36075", "pacs": "16000", "indivs": "20075"},
+                    {"org_name": "Biloxi Freezing & Processing", "total": "33200", "pacs": "0", "indivs": "33200"},
+                    {"org_name": "Huntington Ingalls Industries", "total": "32200", "pacs": "15000", "indivs": "17200"},
+                    {"org_name": "Airbus Group", "total": "29600", "pacs": "21500", "indivs": "8100"}
+                ]
+            }
+        ]
+    },
+    "Montana":{
+        "senators": [ 
+            {
+                "cand_name":"Jon Tester",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "144627", "pacs": "6512", "indivs": "138115"},
+                    {"org_name": "Votesane PAC", "total": "65500", "pacs": "0", "indivs": "65500"},
+                    {"org_name": "Goldman Sachs", "total": "62750", "pacs": "10000", "indivs": "52750"},
+                    {"org_name": "Citigroup Inc", "total": "48800", "pacs": "10000", "indivs": "38800"},
+                    {"org_name": "MetLife Inc", "total": "45400", "pacs": "10000", "indivs": "35400"},
+                    {"org_name": "Blackstone Group", "total": "43000", "pacs": "0", "indivs": "43000"},
+                    {"org_name": "Robbins, Geller et al", "total": "36950", "pacs": "0", "indivs": "36950"},
+                    {"org_name": "Berkshire Hathaway", "total": "31945", "pacs": "10000", "indivs": "21945"},
+                    {"org_name": "FMR Corp", "total": "29200", "pacs": "10000", "indivs": "19200"},
+                    {"org_name": "Capital Group Companies", "total": "28900", "pacs": "10000", "indivs": "18900"}
+                ]
+            },
+            {
+                "cand_name":"Steven Daines",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Elliott Management", "total": "115600", "pacs": "0", "indivs": "115600"},
+                    {"org_name": "Koch Industries", "total": "41200", "pacs": "10000", "indivs": "31200"},
+                    {"org_name": "Yellowstone Bank", "total": "35800", "pacs": "0", "indivs": "35800"},
+                    {"org_name": "Procter & Gamble", "total": "32900", "pacs": "10000", "indivs": "22900"},
+                    {"org_name": "Amway/Alticor Inc", "total": "28000", "pacs": "2000", "indivs": "26000"},
+                    {"org_name": "Langlas & Assoc", "total": "26800", "pacs": "0", "indivs": "26800"},
+                    {"org_name": "Boich Companies", "total": "26400", "pacs": "0", "indivs": "26400"},
+                    {"org_name": "Wynn Resorts", "total": "26000", "pacs": "0", "indivs": "26000"},
+                    {"org_name": "Oracle Corp", "total": "25740", "pacs": "3090", "indivs": "22650"},
+                    {"org_name": "Goldman Sachs", "total": "23400", "pacs": "10000", "indivs": "13400"}
+                ]
+            }
+        ]
+    },
+    "North Carolina":{
+        "senators": [ 
+            {
+                "cand_name":"Richard Burr",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Reynolds American", "total": "102425", "pacs": "10000", "indivs": "92425"},
+                    {"org_name": "MetLife Inc", "total": "56100", "pacs": "10000", "indivs": "46100"},
+                    {"org_name": "Duke Energy", "total": "51400", "pacs": "19000", "indivs": "32400"},
+                    {"org_name": "Scana Corp", "total": "49050", "pacs": "5000", "indivs": "44050"},
+                    {"org_name": "Altria Group", "total": "47000", "pacs": "10000", "indivs": "37000"},
+                    {"org_name": "General Electric", "total": "42350", "pacs": "10000", "indivs": "32350"},
+                    {"org_name": "Bank of America", "total": "41500", "pacs": "10000", "indivs": "31500"},
+                    {"org_name": "Northrop Grumman", "total": "40300", "pacs": "10000", "indivs": "30300"},
+                    {"org_name": "Womble Bond Dickinson", "total": "39350", "pacs": "0", "indivs": "39350"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "39050", "pacs": "21000", "indivs": "18050"}
+                ]
+            },
+            {
+                "cand_name":"Thom Tillis",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Elliott Management", "total": "123700", "pacs": "0", "indivs": "123700"},
+                    {"org_name": "Reynolds American", "total": "74600", "pacs": "15000", "indivs": "59600"},
+                    {"org_name": "XPO Logistics", "total": "59300", "pacs": "0", "indivs": "59300"},
+                    {"org_name": "Live Oak Bank", "total": "56750", "pacs": "0", "indivs": "56750"},
+                    {"org_name": "Kleinberg, Kaplan et al", "total": "53049", "pacs": "0", "indivs": "53049"},
+                    {"org_name": "Susan B Anthony List", "total": "49794", "pacs": "3694", "indivs": "46100"},
+                    {"org_name": "Citizens for Prosperity in America Today", "total": "44980", "pacs": "14380", "indivs": "30600"},
+                    {"org_name": "New Breed Logistics", "total": "37600", "pacs": "0", "indivs": "37600"},
+                    {"org_name": "Club for Growth", "total": "36800", "pacs": "0", "indivs": "36800"},
+                    {"org_name": "Amway/Alticor Inc", "total": "36400", "pacs": "0", "indivs": "36400"}
+                ]
+            }
+        ]
+    },
+    "North Dakota":{
+        "senators": [ 
+            {
+                "cand_name":"Heidi Heitkamp",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "86500", "pacs": "0", "indivs": "86500"},
+                    {"org_name": "Goldman Sachs", "total": "65650", "pacs": "12500", "indivs": "53150"},
+                    {"org_name": "Motley Rice LLC", "total": "62050", "pacs": "0", "indivs": "62050"},
+                    {"org_name": "General Electric", "total": "51951", "pacs": "10000", "indivs": "41951"},
+                    {"org_name": "Signature Bank", "total": "51600", "pacs": "0", "indivs": "51600"},
+                    {"org_name": "Comprehensive Urology", "total": "49800", "pacs": "0", "indivs": "49800"},
+                    {"org_name": "FMR Corp", "total": "46600", "pacs": "10000", "indivs": "36600"},
+                    {"org_name": "BP", "total": "46450", "pacs": "10000", "indivs": "36450"},
+                    {"org_name": "Williams Kherkher", "total": "43200", "pacs": "0", "indivs": "43200"},
+                    {"org_name": "ConocoPhillips", "total": "41200", "pacs": "10000", "indivs": "31200"}
+                ]
+            },
+            {
+                "cand_name":"John Hoeven",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Edison Chouest Offshore", "total": "34700", "pacs": "0", "indivs": "34700"},
+                    {"org_name": "Berkshire Hathaway", "total": "28990", "pacs": "9000", "indivs": "19990"},
+                    {"org_name": "Westport Properties", "total": "27875", "pacs": "0", "indivs": "27875"},
+                    {"org_name": "Murray Energy", "total": "27373", "pacs": "10000", "indivs": "17373"},
+                    {"org_name": "Hess Corp", "total": "26700", "pacs": "10000", "indivs": "16700"},
+                    {"org_name": "Jennmar Corp", "total": "25750", "pacs": "0", "indivs": "25750"},
+                    {"org_name": "Apollo Global Management", "total": "24500", "pacs": "0", "indivs": "24500"},
+                    {"org_name": "Mbi Energy Services", "total": "20520", "pacs": "0", "indivs": "20520"},
+                    {"org_name": "Marvin Windows", "total": "20433", "pacs": "0", "indivs": "20433"},
+                    {"org_name": "NextEra Energy", "total": "20300", "pacs": "6500", "indivs": "13800"}
+                ]
+            }
+        ]
+    },
+    "Nebraska":{
+        "senators": [ 
+            {
+                "cand_name":"Ben Sasse",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "294987", "pacs": "0", "indivs": "294987"},
+                    {"org_name": "Senate Conservatives Fund", "total": "158729", "pacs": "10000", "indivs": "148729"},
+                    {"org_name": "McKinsey & Co", "total": "41150", "pacs": "0", "indivs": "41150"},
+                    {"org_name": "DCI Group", "total": "34300", "pacs": "2500", "indivs": "31800"},
+                    {"org_name": "Capital Group Companies", "total": "31800", "pacs": "5000", "indivs": "26800"},
+                    {"org_name": "Mutual of Omaha", "total": "30950", "pacs": "10000", "indivs": "20950"},
+                    {"org_name": "Madison Dearborn Partners", "total": "30700", "pacs": "0", "indivs": "30700"},
+                    {"org_name": "Berkshire Hathaway", "total": "27750", "pacs": "15000", "indivs": "12750"},
+                    {"org_name": "NelNet Inc", "total": "25000", "pacs": "25000", "indivs": "0"},
+                    {"org_name": "NorPAC", "total": "25000", "pacs": "3000", "indivs": "22000"}
+                ]
+            },
+            {
+                "cand_name":"Deb Fischer",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Union Pacific Corp", "total": "66050", "pacs": "9000", "indivs": "57050"},
+                    {"org_name": "Northrop Grumman", "total": "39150", "pacs": "8000", "indivs": "31150"},
+                    {"org_name": "AFLAC Inc", "total": "36300", "pacs": "10000", "indivs": "26300"},
+                    {"org_name": "Berkshire Hathaway", "total": "30650", "pacs": "10000", "indivs": "20650"},
+                    {"org_name": "Delta Air Lines", "total": "28800", "pacs": "5000", "indivs": "23800"},
+                    {"org_name": "Comcast Corp", "total": "23350", "pacs": "12500", "indivs": "10850"},
+                    {"org_name": "NorPAC", "total": "22150", "pacs": "1500", "indivs": "20650"},
+                    {"org_name": "Kiewit Corp", "total": "21700", "pacs": "0", "indivs": "21700"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "20624", "pacs": "11000", "indivs": "9624"},
+                    {"org_name": "Alexander & Baldwin", "total": "18950", "pacs": "0", "indivs": "18950"}
+                ]
+            }
+        ]
+    },
+    "New Hampshire":{
+        "senators": [ 
+            {
+                "cand_name":"Jeanne Shaheen",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "EMILY's List", "total": "322233", "pacs": "5000", "indivs": "317233"},
+                    {"org_name": "J Street", "total": "112114", "pacs": "75", "indivs": "112039"},
+                    {"org_name": "League of Conservation Voters", "total": "85636", "pacs": "5514", "indivs": "80122"},
+                    {"org_name": "Votesane PAC", "total": "68750", "pacs": "0", "indivs": "68750"},
+                    {"org_name": "Morgan & Morgan", "total": "49558", "pacs": "0", "indivs": "49558"},
+                    {"org_name": "Harvard University", "total": "33501", "pacs": "0", "indivs": "33501"},
+                    {"org_name": "Council for a Livable World", "total": "33391", "pacs": "6731", "indivs": "26660"},
+                    {"org_name": "Thornton Law Firm", "total": "27700", "pacs": "0", "indivs": "27700"},
+                    {"org_name": "Shaheen & Gordon", "total": "26850", "pacs": "0", "indivs": "26850"},
+                    {"org_name": "Beacon Capital Partners", "total": "26500", "pacs": "0", "indivs": "26500"}
+                ]
+            },
+            {
+                "cand_name":"Maggie Hassan",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "EMILY's List", "total": "561379", "pacs": "10000", "indivs": "551379"},
+                    {"org_name": "J Street", "total": "207351", "pacs": "0", "indivs": "207351"},
+                    {"org_name": "Harvard University", "total": "74764", "pacs": "0", "indivs": "74764"},
+                    {"org_name": "Council for a Livable World", "total": "64908", "pacs": "1000", "indivs": "63908"},
+                    {"org_name": "Paul, Weiss et al", "total": "62371", "pacs": "0", "indivs": "62371"},
+                    {"org_name": "Dartmouth College", "total": "57523", "pacs": "0", "indivs": "57523"},
+                    {"org_name": "Womencount PAC", "total": "46053", "pacs": "14285", "indivs": "31768"},
+                    {"org_name": "Motley Rice LLC", "total": "43053", "pacs": "0", "indivs": "43053"},
+                    {"org_name": "Voices for Progress", "total": "41139", "pacs": "889", "indivs": "40250"},
+                    {"org_name": "Alphabet Inc", "total": "40191", "pacs": "0", "indivs": "40191"}
+                ]
+            }
+        ]
+    },
+    "New Jersey":{
+        "senators": [ 
+            {
+                "cand_name":"Cory Booker",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "NorPAC", "total": "158871", "pacs": "4827", "indivs": "154044"},
+                    {"org_name": "Paul, Weiss et al", "total": "157820", "pacs": "0", "indivs": "157820"},
+                    {"org_name": "Gibbons PC", "total": "110950", "pacs": "10000", "indivs": "100950"},
+                    {"org_name": "Greenberg Traurig LLP", "total": "83210", "pacs": "9000", "indivs": "74210"},
+                    {"org_name": "Sullivan & Cromwell", "total": "82760", "pacs": "0", "indivs": "82760"},
+                    {"org_name": "Goldman Sachs", "total": "80400", "pacs": "5000", "indivs": "75400"},
+                    {"org_name": "DLA Piper", "total": "77100", "pacs": "20000", "indivs": "57100"},
+                    {"org_name": "Henry Crown & Co", "total": "72700", "pacs": "0", "indivs": "72700"},
+                    {"org_name": "Kirkland & Ellis", "total": "71900", "pacs": "0", "indivs": "71900"},
+                    {"org_name": "Prudential Financial", "total": "71500", "pacs": "12500", "indivs": "59000"}
+                ]
+            },
+            {
+                "cand_name":"Robert Menendez",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Federated Investors Inc", "total": "60500", "pacs": "5000", "indivs": "55500"},
+                    {"org_name": "Prudential Financial", "total": "36750", "pacs": "10000", "indivs": "26750"},
+                    {"org_name": "Inserra Supermarkets", "total": "31300", "pacs": "0", "indivs": "31300"},
+                    {"org_name": "Gibbons PC", "total": "30950", "pacs": "10000", "indivs": "20950"},
+                    {"org_name": "Carella, Byrne et al", "total": "30900", "pacs": "0", "indivs": "30900"},
+                    {"org_name": "Panepinto Properties", "total": "29100", "pacs": "0", "indivs": "29100"},
+                    {"org_name": "Greenberg Traurig LLP", "total": "28305", "pacs": "4500", "indivs": "23805"},
+                    {"org_name": "Leon Medical Centers", "total": "27000", "pacs": "0", "indivs": "27000"},
+                    {"org_name": "Brownstein, Hyatt et al", "total": "26750", "pacs": "8500", "indivs": "18250"},
+                    {"org_name": "IDT Corp", "total": "26200", "pacs": "5000", "indivs": "21200"}
+                ]
+            }
+        ]
+    },
+    "New Mexico":{
+        "senators": [ 
+            {
+                "cand_name":"Martin Heinrich",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "135525", "pacs": "6500", "indivs": "129025"},
+                    {"org_name": "J Street", "total": "58017", "pacs": "0", "indivs": "58017"},
+                    {"org_name": "University of New Mexico", "total": "36648", "pacs": "0", "indivs": "36648"},
+                    {"org_name": "Mmr Constructors", "total": "32400", "pacs": "0", "indivs": "32400"},
+                    {"org_name": "Akin, Gump et al", "total": "30202", "pacs": "4250", "indivs": "25952"},
+                    {"org_name": "Robbins, Geller et al", "total": "29800", "pacs": "0", "indivs": "29800"},
+                    {"org_name": "Blackstone Group", "total": "27000", "pacs": "0", "indivs": "27000"},
+                    {"org_name": "General Atomics", "total": "20750", "pacs": "10000", "indivs": "10750"},
+                    {"org_name": "Tellurian Inc", "total": "19800", "pacs": "5000", "indivs": "14800"},
+                    {"org_name": "Alphabet Inc", "total": "18150", "pacs": "8500", "indivs": "9650"}
+                ]
+            },
+            {
+                "cand_name":"Tom Udall",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "63143", "pacs": "4610", "indivs": "58533"},
+                    {"org_name": "National Assn of Broadcasters", "total": "48750", "pacs": "10500", "indivs": "38250"},
+                    {"org_name": "University Of New Mexico", "total": "44008", "pacs": "0", "indivs": "44008"},
+                    {"org_name": "J Street", "total": "38250", "pacs": "4000", "indivs": "34250"},
+                    {"org_name": "Comcast Corp", "total": "26605", "pacs": "9000", "indivs": "17605"},
+                    {"org_name": "PNM Resources", "total": "19150", "pacs": "10000", "indivs": "9150"},
+                    {"org_name": "Intel Corp", "total": "18578", "pacs": "13850", "indivs": "4728"},
+                    {"org_name": "American Chemistry Council", "total": "18500", "pacs": "15000", "indivs": "3500"},
+                    {"org_name": "WPP Group", "total": "17800", "pacs": "5800", "indivs": "12000"},
+                    {"org_name": "US Dept of Energy", "total": "17630", "pacs": "0", "indivs": "17630"}
+                ]
+            }
+        ]
+    },
+    "Nevada":{
+        "senators": [ 
+            {
+                "cand_name":"Catherine Cortez Masto",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "EMILY's List", "total": "565729", "pacs": "10000", "indivs": "555729"},
+                    {"org_name": "League of Conservation Voters", "total": "401508", "pacs": "8000", "indivs": "393508"},
+                    {"org_name": "J Street", "total": "186558", "pacs": "999", "indivs": "185559"},
+                    {"org_name": "University of California", "total": "77791", "pacs": "0", "indivs": "77791"},
+                    {"org_name": "University of Nevada", "total": "57754", "pacs": "0", "indivs": "57754"},
+                    {"org_name": "Council for a Livable World", "total": "54733", "pacs": "1000", "indivs": "53733"},
+                    {"org_name": "MGM Resorts International", "total": "39538", "pacs": "10000", "indivs": "29538"},
+                    {"org_name": "Munoz & Co", "total": "32700", "pacs": "0", "indivs": "32700"},
+                    {"org_name": "Boyd Gaming", "total": "31500", "pacs": "15000", "indivs": "16500"},
+                    {"org_name": "Susman Godfrey LLP", "total": "29350", "pacs": "0", "indivs": "29350"}
+                ]
+            },
+            {
+                "cand_name":"Dean Heller",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Station Casinos", "total": "115200", "pacs": "10000", "indivs": "105200"},
+                    {"org_name": "Votesane PAC", "total": "92000", "pacs": "0", "indivs": "92000"},
+                    {"org_name": "MGM Resorts International", "total": "74500", "pacs": "10000", "indivs": "64500"},
+                    {"org_name": "Blackstone Group", "total": "48400", "pacs": "2500", "indivs": "45900"},
+                    {"org_name": "Capital Group", "total": "38800", "pacs": "0", "indivs": "38800"},
+                    {"org_name": "DaVita HealthCare Partners", "total": "36100", "pacs": "10000", "indivs": "26100"},
+                    {"org_name": "Berkshire Hathaway", "total": "34288", "pacs": "10000", "indivs": "24288"},
+                    {"org_name": "Apollo Global Management", "total": "33200", "pacs": "0", "indivs": "33200"},
+                    {"org_name": "Citizens for Prosperity in America Today", "total": "32750", "pacs": "10000", "indivs": "22750"},
+                    {"org_name": "Sierra Nevada Corp", "total": "28800", "pacs": "8000", "indivs": "20800"}
+                ]
+            }
+        ]
+    },
+    "New York":{
+        "senators": [ 
+            {
+                "cand_name":"Charles E. Schumer",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Paul, Weiss et al", "total": "156827", "pacs": "0", "indivs": "156827"},
+                    {"org_name": "NorPAC", "total": "117368", "pacs": "0", "indivs": "117368"},
+                    {"org_name": "Blackstone Group", "total": "111610", "pacs": "2500", "indivs": "109110"},
+                    {"org_name": "Lockheed Martin", "total": "102950", "pacs": "9000", "indivs": "93950"},
+                    {"org_name": "Deloitte LLP", "total": "102259", "pacs": "10000", "indivs": "92259"},
+                    {"org_name": "Lazard Ltd", "total": "100250", "pacs": "0", "indivs": "100250"},
+                    {"org_name": "PricewaterhouseCoopers", "total": "99010", "pacs": "10000", "indivs": "89010"},
+                    {"org_name": "Citigroup Inc", "total": "93175", "pacs": "10000", "indivs": "83175"},
+                    {"org_name": "KPMG LLP", "total": "87800", "pacs": "10000", "indivs": "77800"},
+                    {"org_name": "Alphabet Inc", "total": "85718", "pacs": "1500", "indivs": "84218"}
+                ]
+            },
+            {
+                "cand_name":"Kirsten Gillibrand",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Davis, Polk & Wardwell", "total": "136190", "pacs": "0", "indivs": "136190"},
+                    {"org_name": "Boies, Schiller & Flexner", "total": "125610", "pacs": "0", "indivs": "125610"},
+                    {"org_name": "Corning Inc", "total": "75635", "pacs": "10000", "indivs": "65635"},
+                    {"org_name": "Womencount PAC", "total": "72390", "pacs": "5", "indivs": "72385"},
+                    {"org_name": "Pfizer Inc", "total": "71005", "pacs": "5000", "indivs": "66005"},
+                    {"org_name": "Paul, Weiss et al", "total": "66130", "pacs": "0", "indivs": "66130"},
+                    {"org_name": "Akin, Gump et al", "total": "57258", "pacs": "2908", "indivs": "54350"},
+                    {"org_name": "Sullivan & Cromwell", "total": "49600", "pacs": "0", "indivs": "49600"},
+                    {"org_name": "Blackstone Group", "total": "47245", "pacs": "0", "indivs": "47245"},
+                    {"org_name": "Kirkland & Ellis", "total": "47040", "pacs": "0", "indivs": "47040"}
+                ]
+            }
+        ]
+    },
+    "Ohio":{
+        "senators": [ 
+            {
+                "cand_name":"Rob Portman",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "265500", "pacs": "0", "indivs": "265500"},
+                    {"org_name": "Goldman Sachs", "total": "197600", "pacs": "7500", "indivs": "190100"},
+                    {"org_name": "General Electric", "total": "154550", "pacs": "10000", "indivs": "144550"},
+                    {"org_name": "FMR Corp", "total": "132200", "pacs": "9000", "indivs": "123200"},
+                    {"org_name": "Citigroup Inc", "total": "111300", "pacs": "9000", "indivs": "102300"},
+                    {"org_name": "JPMorgan Chase & Co", "total": "90900", "pacs": "10000", "indivs": "80900"},
+                    {"org_name": "Carlyle Group", "total": "82150", "pacs": "10000", "indivs": "72150"},
+                    {"org_name": "Procter & Gamble", "total": "81325", "pacs": "7500", "indivs": "73825"},
+                    {"org_name": "Marathon Petroleum", "total": "74635", "pacs": "10000", "indivs": "64635"},
+                    {"org_name": "Sullivan & Cromwell", "total": "68050", "pacs": "0", "indivs": "68050"}
+                ]
+            },
+            {
+                "cand_name":"Sherrod Brown",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Ohio State University", "total": "158176", "pacs": "0", "indivs": "158176"},
+                    {"org_name": "League of Conservation Voters", "total": "82152", "pacs": "1000", "indivs": "81152"},
+                    {"org_name": "J Street", "total": "79750", "pacs": "0", "indivs": "79750"},
+                    {"org_name": "Case Western Reserve University", "total": "67913", "pacs": "0", "indivs": "67913"},
+                    {"org_name": "Cleveland Clinic", "total": "65005", "pacs": "0", "indivs": "65005"},
+                    {"org_name": "Kohrman, Jackson & Krantz", "total": "62577", "pacs": "0", "indivs": "62577"},
+                    {"org_name": "Vorys, Sater et al", "total": "60530", "pacs": "8500", "indivs": "52030"},
+                    {"org_name": "Thompson Hine LLP", "total": "57925", "pacs": "0", "indivs": "57925"},
+                    {"org_name": "AK Steel", "total": "53425", "pacs": "1900", "indivs": "51525"},
+                    {"org_name": "New York Life Insurance", "total": "52900", "pacs": "10000", "indivs": "42900"}
+                ]
+            }
+        ]
+    },
+    "Oklahoma":{
+        "senators": [ 
+            {
+                "cand_name":"James M. Inhofe",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Murray Energy", "total": "20500", "pacs": "10000", "indivs": "10500"},
+                    {"org_name": "Exxon Mobil", "total": "20000", "pacs": "20000", "indivs": "0"},
+                    {"org_name": "General Dynamics", "total": "19000", "pacs": "10000", "indivs": "9000"},
+                    {"org_name": "American Trucking Assns", "total": "17500", "pacs": "17500", "indivs": "0"},
+                    {"org_name": "Devon Energy", "total": "17400", "pacs": "12500", "indivs": "4900"},
+                    {"org_name": "BAE Systems", "total": "16000", "pacs": "14500", "indivs": "1500"},
+                    {"org_name": "American Chemistry Council", "total": "15000", "pacs": "15000", "indivs": "0"},
+                    {"org_name": "Oshkosh Corp", "total": "15000", "pacs": "12500", "indivs": "2500"},
+                    {"org_name": "Valero Energy", "total": "15000", "pacs": "15000", "indivs": "0"},
+                    {"org_name": "BP", "total": "14000", "pacs": "14000", "indivs": "0"}
+                ]
+            },
+            {
+                "cand_name":"James Lankford",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Devon Energy", "total": "59310", "pacs": "20000", "indivs": "39310"},
+                    {"org_name": "Koch Industries", "total": "52500", "pacs": "19500", "indivs": "33000"},
+                    {"org_name": "Energy Transfer Equity", "total": "35600", "pacs": "10000", "indivs": "25600"},
+                    {"org_name": "OGE Energy", "total": "34140", "pacs": "17600", "indivs": "16540"},
+                    {"org_name": "Bancfirst", "total": "33450", "pacs": "0", "indivs": "33450"},
+                    {"org_name": "Senior Star Living", "total": "33000", "pacs": "0", "indivs": "33000"},
+                    {"org_name": "Honeywell International", "total": "32300", "pacs": "15000", "indivs": "17300"},
+                    {"org_name": "Mathena Inc", "total": "31800", "pacs": "0", "indivs": "31800"},
+                    {"org_name": "Cox Enterprises", "total": "31350", "pacs": "22500", "indivs": "8850"},
+                    {"org_name": "Pelco Structural", "total": "29915", "pacs": "0", "indivs": "29915"}
+                ]
+            }
+        ]
+    },
+    "Oregon":{
+        "senators": [ 
+            {
+                "cand_name":"Jeff Merkley",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "89212", "pacs": "7862", "indivs": "81350"},
+                    {"org_name": "J Street", "total": "48710", "pacs": "50", "indivs": "48660"},
+                    {"org_name": "Votesane PAC", "total": "41750", "pacs": "0", "indivs": "41750"},
+                    {"org_name": "Oregon Health & Science University", "total": "30559", "pacs": "0", "indivs": "30559"},
+                    {"org_name": "Intel Corp", "total": "29353", "pacs": "12500", "indivs": "16853"},
+                    {"org_name": "Peace Action", "total": "27057", "pacs": "14992", "indivs": "12065"},
+                    {"org_name": "Thornton Law Firm", "total": "25000", "pacs": "0", "indivs": "25000"},
+                    {"org_name": "Stoel, Rives et al", "total": "19060", "pacs": "2500", "indivs": "16560"},
+                    {"org_name": "Portland State University", "total": "18307", "pacs": "0", "indivs": "18307"},
+                    {"org_name": "Nike Inc", "total": "17379", "pacs": "10000", "indivs": "7379"}
+                ]
+            },
+            {
+                "cand_name":"Ron Wyden",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Nike Inc", "total": "95363", "pacs": "7500", "indivs": "87863"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "75948", "pacs": "27500", "indivs": "48448"},
+                    {"org_name": "League of Conservation Voters", "total": "66461", "pacs": "4500", "indivs": "61961"},
+                    {"org_name": "Intel Corp", "total": "65928", "pacs": "10000", "indivs": "55928"},
+                    {"org_name": "Akin, Gump et al", "total": "63505", "pacs": "5580", "indivs": "57925"},
+                    {"org_name": "DaVita HealthCare Partners", "total": "47900", "pacs": "9500", "indivs": "38400"},
+                    {"org_name": "MetLife Inc", "total": "46514", "pacs": "10000", "indivs": "36514"},
+                    {"org_name": "Alphabet Inc", "total": "42725", "pacs": "1000", "indivs": "41725"},
+                    {"org_name": "DLA Piper", "total": "40700", "pacs": "10000", "indivs": "30700"},
+                    {"org_name": "Huntsman Corp", "total": "36600", "pacs": "5000", "indivs": "31600"}
+                ]
+            }
+        ]
+    },
+    "Pennsylvania":{
+            "senators": [ 
+                {
+                "cand_name":"Bob Casey",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Exelon Corp", "total": "90530", "pacs": "6500", "indivs": "84030"},
+                    {"org_name": "Blank Rome LLP", "total": "89902", "pacs": "5500", "indivs": "84402"},
+                    {"org_name": "Air Products & Chemicals Inc", "total": "79295", "pacs": "10000", "indivs": "69295"},
+                    {"org_name": "Comcast Corp", "total": "70960", "pacs": "10000", "indivs": "60960"},
+                    {"org_name": "Kessler, Topaz et al", "total": "67196", "pacs": "0", "indivs": "67196"},
+                    {"org_name": "UPMC Health System", "total": "63550", "pacs": "0", "indivs": "63550"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "63345", "pacs": "26500", "indivs": "36845"},
+                    {"org_name": "University of Pennsylvania", "total": "59484", "pacs": "0", "indivs": "59484"},
+                    {"org_name": "Reed Smith LLP", "total": "50560", "pacs": "5000", "indivs": "45560"},
+                    {"org_name": "Rite Aid Corp", "total": "50500", "pacs": "9000", "indivs": "41500"}
+                ]
+            },
+            {
+                "cand_name":"Pat Toomey",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "417416", "pacs": "0", "indivs": "417416"},
+                    {"org_name": "Rothman Institute", "total": "101300", "pacs": "5400", "indivs": "95900"},
+                    {"org_name": "Goldman Sachs", "total": "97029", "pacs": "9000", "indivs": "88029"},
+                    {"org_name": "PNC Financial Services", "total": "85300", "pacs": "5000", "indivs": "80300"},
+                    {"org_name": "Federated Investors Inc", "total": "81450", "pacs": "2900", "indivs": "78550"},
+                    {"org_name": "Exelon Corp", "total": "74100", "pacs": "9000", "indivs": "65100"},
+                    {"org_name": "Comcast Corp", "total": "67300", "pacs": "10000", "indivs": "57300"},
+                    {"org_name": "Blackstone Group", "total": "57850", "pacs": "2500", "indivs": "55350"},
+                    {"org_name": "FMR Corp", "total": "57350", "pacs": "5500", "indivs": "51850"},
+                    {"org_name": "Bank of America", "total": "56300", "pacs": "10000", "indivs": "46300"}
+                ]
+            }
+        ]
+    },
+    "Rhode Island":{
+        "senators": [ 
+            {
+                "cand_name":"Jack Reed",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "General Dynamics", "total": "54700", "pacs": "14000", "indivs": "40700"},
+                    {"org_name": "Thornton Law Firm", "total": "51250", "pacs": "0", "indivs": "51250"},
+                    {"org_name": "MetLife Inc", "total": "49400", "pacs": "8500", "indivs": "40900"},
+                    {"org_name": "Raytheon Co", "total": "37750", "pacs": "13000", "indivs": "24750"},
+                    {"org_name": "NorPAC", "total": "37000", "pacs": "0", "indivs": "37000"},
+                    {"org_name": "Edwards Wildman Palmer", "total": "31650", "pacs": "6000", "indivs": "25650"},
+                    {"org_name": "Apollo Global Management", "total": "28000", "pacs": "0", "indivs": "28000"},
+                    {"org_name": "Goldman Sachs", "total": "21000", "pacs": "11000", "indivs": "10000"},
+                    {"org_name": "Dimeo Construction", "total": "20800", "pacs": "0", "indivs": "20800"},
+                    {"org_name": "Aloha Partners", "total": "20400", "pacs": "0", "indivs": "20400"}
+                ]
+            },
+            {
+                "cand_name":"Sheldon Whitehouse",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "League of Conservation Voters", "total": "172849", "pacs": "7000", "indivs": "165849"},
+                    {"org_name": "Wilmerhale LLP", "total": "33300", "pacs": "0", "indivs": "33300"},
+                    {"org_name": "Ocean Champions", "total": "20130", "pacs": "12730", "indivs": "7400"},
+                    {"org_name": "Alkermes plc", "total": "20000", "pacs": "10000", "indivs": "10000"},
+                    {"org_name": "Comcast Corp", "total": "19900", "pacs": "5000", "indivs": "14900"},
+                    {"org_name": "21st Century Fox", "total": "19650", "pacs": "10000", "indivs": "9650"},
+                    {"org_name": "Kleiner, Perkins et al", "total": "18900", "pacs": "0", "indivs": "18900"},
+                    {"org_name": "Solil Management", "total": "18900", "pacs": "0", "indivs": "18900"},
+                    {"org_name": "Motley Rice LLC", "total": "16300", "pacs": "0", "indivs": "16300"},
+                    {"org_name": "Brown University", "total": "16239", "pacs": "0", "indivs": "16239"}
+                ]
+            }
+        ]
+    },
+    "South Carolina":{
+        "senators": [ 
+            {
+                "cand_name":"Lindsey Graham",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Lockheed Martin", "total": "61700", "pacs": "5000", "indivs": "56700"},
+                    {"org_name": "General Electric", "total": "57200", "pacs": "9500", "indivs": "47700"},
+                    {"org_name": "MacAndrews & Forbes", "total": "53400", "pacs": "15000", "indivs": "38400"},
+                    {"org_name": "NextEra Energy", "total": "48600", "pacs": "3500", "indivs": "45100"},
+                    {"org_name": "Morgan Stanley", "total": "47500", "pacs": "5000", "indivs": "42500"},
+                    {"org_name": "Rdl Inc", "total": "47200", "pacs": "0", "indivs": "47200"},
+                    {"org_name": "Nelson, Mullins et al", "total": "46686", "pacs": "5000", "indivs": "41686"},
+                    {"org_name": "Elliott Management", "total": "42300", "pacs": "0", "indivs": "42300"},
+                    {"org_name": "Boeing Co", "total": "41293", "pacs": "9000", "indivs": "32293"},
+                    {"org_name": "Harrison, White et al", "total": "33416", "pacs": "0", "indivs": "33416"}
+                ]
+            },
+            {
+                "cand_name":"Tim Scott",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Scana Corp", "total": "95004", "pacs": "20000", "indivs": "75004"},
+                    {"org_name": "Goldman Sachs", "total": "80750", "pacs": "25000", "indivs": "55750"},
+                    {"org_name": "Votesane PAC", "total": "76000", "pacs": "0", "indivs": "76000"},
+                    {"org_name": "AFLAC Inc", "total": "74300", "pacs": "20000", "indivs": "54300"},
+                    {"org_name": "Humanscale Corp", "total": "73100", "pacs": "0", "indivs": "73100"},
+                    {"org_name": "Koch Industries", "total": "67400", "pacs": "19000", "indivs": "48400"},
+                    {"org_name": "Boeing Co", "total": "64499", "pacs": "21500", "indivs": "42999"},
+                    {"org_name": "Blackstone Group", "total": "61300", "pacs": "7500", "indivs": "53800"},
+                    {"org_name": "Club for Growth", "total": "53675", "pacs": "0", "indivs": "53675"},
+                    {"org_name": "Comcast Corp", "total": "51400", "pacs": "20000", "indivs": "31400"}
+                ]
+            }
+        ]
+    },
+    "South Dakota":{
+        "senators": [ 
+            {
+                "cand_name":"John Thune",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Blackstone Group", "total": "57699", "pacs": "4500", "indivs": "53199"},
+                    {"org_name": "NextEra Energy", "total": "52500", "pacs": "10500", "indivs": "42000"},
+                    {"org_name": "Arizona Tile", "total": "45400", "pacs": "0", "indivs": "45400"},
+                    {"org_name": "Prudential Financial", "total": "35000", "pacs": "12000", "indivs": "23000"},
+                    {"org_name": "Sinclair Broadcast Group", "total": "31250", "pacs": "3000", "indivs": "28250"},
+                    {"org_name": "Capital Group Companies", "total": "30900", "pacs": "10000", "indivs": "20900"},
+                    {"org_name": "Verizon Communications", "total": "30650", "pacs": "12500", "indivs": "18150"},
+                    {"org_name": "AT&T Inc", "total": "30000", "pacs": "8000", "indivs": "22000"},
+                    {"org_name": "Sanford Health", "total": "29140", "pacs": "0", "indivs": "29140"},
+                    {"org_name": "Schneider National", "total": "28100", "pacs": "12500", "indivs": "15600"}
+                ]
+            },
+            {
+                "cand_name":"Mike Rounds",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Citigroup Inc", "total": "40700", "pacs": "10000", "indivs": "30700"},
+                    {"org_name": "Avera Health Systems", "total": "29004", "pacs": "0", "indivs": "29004"},
+                    {"org_name": "Verizon Communications", "total": "28848", "pacs": "11000", "indivs": "17848"},
+                    {"org_name": "Amway/Alticor Inc", "total": "27000", "pacs": "1000", "indivs": "26000"},
+                    {"org_name": "Berkshire Hathaway", "total": "24800", "pacs": "10000", "indivs": "14800"},
+                    {"org_name": "Lawrence & Schiller", "total": "22700", "pacs": "0", "indivs": "22700"},
+                    {"org_name": "US Bancorp", "total": "21600", "pacs": "9500", "indivs": "12100"},
+                    {"org_name": "Beef Products Inc", "total": "21200", "pacs": "0", "indivs": "21200"},
+                    {"org_name": "NextEra Energy", "total": "20750", "pacs": "10000", "indivs": "10750"},
+                    {"org_name": "Poet LLC", "total": "20300", "pacs": "10000", "indivs": "10300"}
+                ]
+            }
+        ]
+    },
+    "Tennessee":{
+        "senators": [ 
+            {
+                "cand_name":"Bob Corker",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Goldman Sachs", "total": "33000", "pacs": "5000", "indivs": "28000"},
+                    {"org_name": "Grace Healthcare", "total": "28500", "pacs": "0", "indivs": "28500"},
+                    {"org_name": "FedEx Corp", "total": "21600", "pacs": "0", "indivs": "21600"},
+                    {"org_name": "Miller & Martin", "total": "12936", "pacs": "0", "indivs": "12936"},
+                    {"org_name": "AT&T Inc", "total": "12000", "pacs": "12000", "indivs": "0"},
+                    {"org_name": "Deloitte LLP", "total": "11000", "pacs": "10000", "indivs": "1000"},
+                    {"org_name": "Lewis, Thomason et al", "total": "10800", "pacs": "0", "indivs": "10800"},
+                    {"org_name": "Lf Holdings", "total": "10800", "pacs": "0", "indivs": "10800"},
+                    {"org_name": "Pointer Management", "total": "10310", "pacs": "0", "indivs": "10310"},
+                    {"org_name": "Baker, Donelson et al", "total": "10164", "pacs": "5000", "indivs": "5164"}
+                ]
+            },
+            {
+                "cand_name":"Lamar Alexander",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Blue Cross/Blue Shield", "total": "58750", "pacs": "24000", "indivs": "34750"},
+                    {"org_name": "International Paper", "total": "43950", "pacs": "5000", "indivs": "38950"},
+                    {"org_name": "Community Health Systems", "total": "28850", "pacs": "5000", "indivs": "23850"},
+                    {"org_name": "Hercules Holding", "total": "28600", "pacs": "0", "indivs": "28600"},
+                    {"org_name": "Comcast Corp", "total": "27300", "pacs": "10000", "indivs": "17300"},
+                    {"org_name": "Regions Financial", "total": "26200", "pacs": "6000", "indivs": "20200"},
+                    {"org_name": "Exelon Corp", "total": "26000", "pacs": "7500", "indivs": "18500"},
+                    {"org_name": "FedEx Corp", "total": "25800", "pacs": "10000", "indivs": "15800"},
+                    {"org_name": "McKee Foods", "total": "24800", "pacs": "0", "indivs": "24800"},
+                    {"org_name": "General Atomics", "total": "22600", "pacs": "7000", "indivs": "15600"}
+                ]
+            }
+        ]
+    },
+    "Texas":{
+        "senators": [ 
+            {
+                "cand_name":"John Cornyn",
+                "party": "R",
+                "contributor":[
+                {"org_name": "Votesane PAC", "total": "62750", "pacs": "0", "indivs": "62750"},
+                {"org_name": "AT&T Inc", "total": "60700", "pacs": "7000", "indivs": "53700"},
+                {"org_name": "Valero Energy", "total": "57950", "pacs": "10000", "indivs": "47950"},
+                {"org_name": "Chevron Corp", "total": "56700", "pacs": "10000", "indivs": "46700"},
+                {"org_name": "Berkshire Hathaway", "total": "50600", "pacs": "7500", "indivs": "43100"},
+                {"org_name": "Exxon Mobil", "total": "50600", "pacs": "10000", "indivs": "40600"},
+                {"org_name": "Goldman Sachs", "total": "50000", "pacs": "15000", "indivs": "35000"},
+                {"org_name": "Energy Transfer Equity", "total": "48100", "pacs": "10000", "indivs": "38100"},
+                {"org_name": "Blackstone Group", "total": "46000", "pacs": "2500", "indivs": "43500"},
+                {"org_name": "Kindred Healthcare", "total": "45500", "pacs": "20000", "indivs": "25500"}
+            ]
+        },
+        {
+            "cand_name":"Ted Cruz",
+            "party": "R",
+            "contributor":[
+                {"org_name": "Woodforest Financial Group", "total": "100751", "pacs": "0", "indivs": "100751"},
+                {"org_name": "Senate Conservatives Fund", "total": "69938", "pacs": "5000", "indivs": "64938"},
+                {"org_name": "Stewart Information Services", "total": "54400", "pacs": "0", "indivs": "54400"},
+                {"org_name": "Lockheed Martin", "total": "41670", "pacs": "10000", "indivs": "31670"},
+                {"org_name": "Club for Growth", "total": "41025", "pacs": "0", "indivs": "41025"},
+                {"org_name": "Herzog Contracting", "total": "37800", "pacs": "0", "indivs": "37800"},
+                {"org_name": "Avalon Advisors", "total": "35100", "pacs": "0", "indivs": "35100"},
+                {"org_name": "Sullivan & Cromwell", "total": "33400", "pacs": "0", "indivs": "33400"},
+                {"org_name": "Greenberg Traurig LLP", "total": "33300", "pacs": "0", "indivs": "33300"},
+                {"org_name": "Wilks Brothers", "total": "33000", "pacs": "0", "indivs": "33000"}
+                ]
+            }
+        ]
+    },
+    "Utah":{
+        "senators": [ 
+            {
+                "cand_name":"Mike Lee",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "360732", "pacs": "0", "indivs": "360732"},
+                    {"org_name": "Senate Conservatives Fund", "total": "169907", "pacs": "5000", "indivs": "164907"},
+                    {"org_name": "Kirkham Motorsports", "total": "111200", "pacs": "0", "indivs": "111200"},
+                    {"org_name": "Pachulski, Stang et al", "total": "77400", "pacs": "0", "indivs": "77400"},
+                    {"org_name": "Edge Creek", "total": "76600", "pacs": "0", "indivs": "76600"},
+                    {"org_name": "Sullivan & Cromwell", "total": "72666", "pacs": "0", "indivs": "72666"},
+                    {"org_name": "Arizona Diamondbacks/Datatel Inc", "total": "56700", "pacs": "0", "indivs": "56700"},
+                    {"org_name": "Uline Inc", "total": "53200", "pacs": "0", "indivs": "53200"},
+                    {"org_name": "Braman Motorcars", "total": "52000", "pacs": "0", "indivs": "52000"},
+                    {"org_name": "Halliburton Co", "total": "50900", "pacs": "5000", "indivs": "45900"}
+                ]
+            },
+            {
+                "cand_name":"Orrin G. Hatch",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Votesane PAC", "total": "535000", "pacs": "0", "indivs": "535000"},
+                    {"org_name": "Ernst & Young", "total": "97850", "pacs": "10000", "indivs": "87850"},
+                    {"org_name": "Microsoft Corp", "total": "88700", "pacs": "10000", "indivs": "78700"},
+                    {"org_name": "Blackstone Group", "total": "71900", "pacs": "5000", "indivs": "66900"},
+                    {"org_name": "Ryan LLC", "total": "62600", "pacs": "15000", "indivs": "47600"},
+                    {"org_name": "Fresenius Medical Care", "total": "46600", "pacs": "10000", "indivs": "36600"},
+                    {"org_name": "Amgen Inc", "total": "45020", "pacs": "10000", "indivs": "35020"},
+                    {"org_name": "Goldman Sachs", "total": "42400", "pacs": "10000", "indivs": "32400"},
+                    {"org_name": "Amneal Pharmaceuticals", "total": "41800", "pacs": "0", "indivs": "41800"},
+                    {"org_name": "RLJ Companies", "total": "40400", "pacs": "0", "indivs": "40400"}
+                ]
+            }
+        ]
+    },
+        "Virginia":{
+            "senators": [ 
+                {
+                    "cand_name":"Mark Warner",
+                    "party": "D",
+                    "contributor":[
+                    {"org_name": "Altria Group", "total": "78815", "pacs": "12715", "indivs": "66100"},
+                    {"org_name": "Norfolk Southern", "total": "74338", "pacs": "10000", "indivs": "64338"},
+                    {"org_name": "Blackstone Group", "total": "61800", "pacs": "6500", "indivs": "55300"},
+                    {"org_name": "Genworth Financial", "total": "56850", "pacs": "8000", "indivs": "48850"},
+                    {"org_name": "Goldman Sachs", "total": "51600", "pacs": "7500", "indivs": "44100"},
+                    {"org_name": "Sullivan & Cromwell", "total": "50800", "pacs": "0", "indivs": "50800"},
+                    {"org_name": "Prudential Financial", "total": "49100", "pacs": "4000", "indivs": "45100"},
+                    {"org_name": "McGuireWoods LLP", "total": "48703", "pacs": "9003", "indivs": "39700"},
+                    {"org_name": "BlackRock Inc", "total": "47600", "pacs": "6000", "indivs": "41600"},
+                    {"org_name": "Capital One Financial", "total": "46055", "pacs": "9000", "indivs": "37055"}
+                ]
+            },
+            {
+                "cand_name":"Tim Kaine",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "J Street", "total": "166361", "pacs": "8910", "indivs": "157451"},
+                    {"org_name": "Covington & Burling", "total": "82500", "pacs": "0", "indivs": "82500"},
+                    {"org_name": "Altria Group", "total": "69201", "pacs": "7500", "indivs": "61701"},
+                    {"org_name": "League of Conservation Voters", "total": "58805", "pacs": "4000", "indivs": "54805"},
+                    {"org_name": "Akin, Gump et al", "total": "54177", "pacs": "5500", "indivs": "48677"},
+                    {"org_name": "Bloomberg Lp", "total": "45650", "pacs": "0", "indivs": "45650"},
+                    {"org_name": "Northrop Grumman", "total": "43945", "pacs": "10000", "indivs": "33945"},
+                    {"org_name": "Huntington Ingalls Industries", "total": "43850", "pacs": "10000", "indivs": "33850"},
+                    {"org_name": "Deloitte LLP", "total": "42275", "pacs": "10000", "indivs": "32275"},
+                    {"org_name": "DLA Piper", "total": "41695", "pacs": "9000", "indivs": "32695"}
+                ]
+            }
+        ]
+    },
+    "Vermont":{
+        "senators": [ 
+            {
+                "cand_name":"Bernie Sanders",
+                "party": "I",
+                "contributor":[
+                    {"org_name": "University of California", "total": "10392", "pacs": "0", "indivs": "10392"},
+                    {"org_name": "Moveon.org", "total": "10101", "pacs": "10000", "indivs": "101"},
+                    {"org_name": "American Federation of Teachers", "total": "10042", "pacs": "10000", "indivs": "42"},
+                    {"org_name": "Communications Workers of America", "total": "10007", "pacs": "10000", "indivs": "7"},
+                    {"org_name": "America Works", "total": "10000", "pacs": "10000", "indivs": "0"},
+                    {"org_name": "Climate Champions PAC", "total": "10000", "pacs": "10000", "indivs": "0"},
+                    {"org_name": "Fearless for the People", "total": "10000", "pacs": "10000", "indivs": "0"},
+                    {"org_name": "National Assn of Letter Carriers", "total": "6500", "pacs": "6500", "indivs": "0"},
+                    {"org_name": "American Postal Workers Union", "total": "5000", "pacs": "5000", "indivs": "0"},
+                    {"org_name": "CoryPAC", "total": "5000", "pacs": "5000", "indivs": "0"}
+                ]
+            },
+            {
+                "cand_name":"Patrick Leahy",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Law Offices of Peter G Angelos", "total": "56000", "pacs": "0", "indivs": "56000"},
+                    {"org_name": "Comcast Corp", "total": "49700", "pacs": "10000", "indivs": "39700"},
+                    {"org_name": "J Street", "total": "44168", "pacs": "3750", "indivs": "40418"},
+                    {"org_name": "Lockheed Martin", "total": "34100", "pacs": "9000", "indivs": "25100"},
+                    {"org_name": "DISH Network", "total": "31600", "pacs": "10000", "indivs": "21600"},
+                    {"org_name": "National Amusements Inc", "total": "28900", "pacs": "9500", "indivs": "19400"},
+                    {"org_name": "Girardi & Keese", "total": "28864", "pacs": "0", "indivs": "28864"},
+                    {"org_name": "Time Warner", "total": "28500", "pacs": "10000", "indivs": "18500"},
+                    {"org_name": "Akin, Gump et al", "total": "25100", "pacs": "5700", "indivs": "19400"},
+                    {"org_name": "Walt Disney Co", "total": "24000", "pacs": "10000", "indivs": "14000"}
+                ]
+            }
+        ]
+    },
+    "Washington":{
+        "senators": [ 
+            {
+                "cand_name":"Maria Cantwell",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Morgan & Morgan", "total": "102600", "pacs": "0", "indivs": "102600"},
+                    {"org_name": "League of Conservation Voters", "total": "81700", "pacs": "0", "indivs": "81700"},
+                    {"org_name": "Microsoft Corp", "total": "63540", "pacs": "0", "indivs": "63540"},
+                    {"org_name": "Boeing Co", "total": "42434", "pacs": "0", "indivs": "42434"},
+                    {"org_name": "Amazon.com", "total": "32350", "pacs": "0", "indivs": "32350"},
+                    {"org_name": "EMILY's List", "total": "32106", "pacs": "0", "indivs": "32106"},
+                    {"org_name": "Zillow Inc", "total": "31400", "pacs": "0", "indivs": "31400"},
+                    {"org_name": "Fisher Investments", "total": "25400", "pacs": "0", "indivs": "25400"},
+                    {"org_name": "University of Washington", "total": "24818", "pacs": "0", "indivs": "24818"},
+                    {"org_name": "Fedex Corp", "total": "21600", "pacs": "0", "indivs": "21600"}
+                ]
+            },
+            {
+                "cand_name":"Patty Murray",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Microsoft Corp", "total": "111011", "pacs": "8000", "indivs": "103011"},
+                    {"org_name": "Amazon.com", "total": "94390", "pacs": "10000", "indivs": "84390"},
+                    {"org_name": "EMILY's List", "total": "90379", "pacs": "5000", "indivs": "85379"},
+                    {"org_name": "Boeing Co", "total": "80678", "pacs": "10000", "indivs": "70678"},
+                    {"org_name": "University of Washington", "total": "79157", "pacs": "0", "indivs": "79157"},
+                    {"org_name": "League of Conservation Voters", "total": "61619", "pacs": "11018", "indivs": "50601"},
+                    {"org_name": "Blue Cross/Blue Shield", "total": "42082", "pacs": "34000", "indivs": "8082"},
+                    {"org_name": "Amgen Inc", "total": "41370", "pacs": "10000", "indivs": "31370"},
+                    {"org_name": "Berkshire Hathaway", "total": "36250", "pacs": "10000", "indivs": "26250"},
+                    {"org_name": "Intellectual Ventures LLC", "total": "36250", "pacs": "10000", "indivs": "26250"}
+                ]
+            }
+        ]
+    },
+    "Wisconsin":{
+        "senators": [ 
+            {
+                "cand_name":"Ron Johnson",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Club for Growth", "total": "525533", "pacs": "0", "indivs": "525533"},
+                    {"org_name": "Northwestern Mutual", "total": "80110", "pacs": "10000", "indivs": "70110"},
+                    {"org_name": "Abc Supply", "total": "64406", "pacs": "0", "indivs": "64406"},
+                    {"org_name": "Foley & Lardner", "total": "59175", "pacs": "3000", "indivs": "56175"},
+                    {"org_name": "Advocate Aurora Health", "total": "54460", "pacs": "0", "indivs": "54460"},
+                    {"org_name": "NorPAC", "total": "54300", "pacs": "0", "indivs": "54300"},
+                    {"org_name": "Oshkosh Corp", "total": "39789", "pacs": "5000", "indivs": "34789"},
+                    {"org_name": "Station Casinos", "total": "37400", "pacs": "0", "indivs": "37400"},
+                    {"org_name": "Jennmar Corp", "total": "36900", "pacs": "0", "indivs": "36900"},
+                    {"org_name": "AegisPAC", "total": "36500", "pacs": "0", "indivs": "36500"}
+                ]
+            },
+            {
+                "cand_name":"Tammy Baldwin",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "University of Wisconsin", "total": "152110", "pacs": "0", "indivs": "152110"},
+                    {"org_name": "J Street", "total": "91783", "pacs": "0", "indivs": "91783"},
+                    {"org_name": "Womencount PAC", "total": "85955", "pacs": "25", "indivs": "85930"},
+                    {"org_name": "League of Conservation Voters", "total": "73947", "pacs": "2500", "indivs": "71447"},
+                    {"org_name": "EMILY's List", "total": "42156", "pacs": "5000", "indivs": "37156"},
+                    {"org_name": "Congaree River LP", "total": "37950", "pacs": "0", "indivs": "37950"},
+                    {"org_name": "Foley & Lardner", "total": "28055", "pacs": "9000", "indivs": "19055"},
+                    {"org_name": "Michael, Best & Friedrich", "total": "25670", "pacs": "2500", "indivs": "23170"},
+                    {"org_name": "Habush, Habush & Rottier", "total": "24250", "pacs": "0", "indivs": "24250"},
+                    {"org_name": "Paul, Weiss et al", "total": "20900", "pacs": "0", "indivs": "20900"}
+                ]
+            }
+        ]
+    },
+    "West Virginia":{
+        "senators": [ 
+            {
+                "cand_name":"Joe Manchin",
+                "party": "D",
+                "contributor":[
+                    {"org_name": "Capital Group", "total": "96500", "pacs": "0", "indivs": "96500"},
+                    {"org_name": "Wexford Capital", "total": "43200", "pacs": "0", "indivs": "43200"},
+                    {"org_name": "Capital Group Companies", "total": "42400", "pacs": "10000", "indivs": "32400"},
+                    {"org_name": "NorPAC", "total": "42050", "pacs": "1250", "indivs": "40800"},
+                    {"org_name": "Comcast Corp", "total": "27600", "pacs": "10000", "indivs": "17600"},
+                    {"org_name": "N3", "total": "17200", "pacs": "0", "indivs": "17200"},
+                    {"org_name": "DCI Group", "total": "17000", "pacs": "8000", "indivs": "9000"},
+                    {"org_name": "Artery Capital Group", "total": "16200", "pacs": "0", "indivs": "16200"},
+                    {"org_name": "Loews Corp", "total": "14300", "pacs": "2500", "indivs": "11800"},
+                    {"org_name": "Dominion Resources", "total": "13200", "pacs": "7500", "indivs": "5700"}
+                ]
+            },
+            {
+                "cand_name":"Shelley Moore Capito",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Sullivan & Cromwell", "total": "78200", "pacs": "0", "indivs": "78200"},
+                    {"org_name": "Powell Construction", "total": "65000", "pacs": "0", "indivs": "65000"},
+                    {"org_name": "Citigroup Inc", "total": "54350", "pacs": "12500", "indivs": "41850"},
+                    {"org_name": "Elliott Management", "total": "42000", "pacs": "0", "indivs": "42000"},
+                    {"org_name": "Goldman Sachs", "total": "36049", "pacs": "7500", "indivs": "28549"},
+                    {"org_name": "Jackson Kelly Pllc", "total": "35950", "pacs": "0", "indivs": "35950"},
+                    {"org_name": "MetLife Inc", "total": "34700", "pacs": "10000", "indivs": "24700"},
+                    {"org_name": "Alpha Natural Resources", "total": "32975", "pacs": "9375", "indivs": "23600"},
+                    {"org_name": "FirstEnergy Corp", "total": "32400", "pacs": "0", "indivs": "32400"},
+                    {"org_name": "Steptoe & Johnson", "total": "28000", "pacs": "0", "indivs": "28000"}
+                ]
+            }
+        ]
+    },
+    "Wyoming":{
+        "senators": [ 
+            {
+                "cand_name":"John A. Barrasso",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Amgen Inc", "total": "37500", "pacs": "6000", "indivs": "31500"},
+                    {"org_name": "Blackstone Group", "total": "34900", "pacs": "0", "indivs": "34900"},
+                    {"org_name": "NextEra Energy", "total": "30500", "pacs": "5000", "indivs": "25500"},
+                    {"org_name": "Chevron Corp", "total": "28400", "pacs": "7000", "indivs": "21400"},
+                    {"org_name": "DISH Network", "total": "28300", "pacs": "5000", "indivs": "23300"},
+                    {"org_name": "Berkshire Hathaway", "total": "25000", "pacs": "9000", "indivs": "16000"},
+                    {"org_name": "Capital Group Companies", "total": "24500", "pacs": "10000", "indivs": "14500"},
+                    {"org_name": "CVS Health", "total": "24400", "pacs": "10000", "indivs": "14400"},
+                    {"org_name": "Exelon Corp", "total": "24000", "pacs": "10000", "indivs": "14000"},
+                    {"org_name": "Murray Energy", "total": "23550", "pacs": "10000", "indivs": "13550"}
+                ]
+            },
+            {
+                "cand_name":"Mike Enzi",
+                "party": "R",
+                "contributor":[
+                    {"org_name": "Peabody Energy", "total": "21650", "pacs": "6000", "indivs": "15650"},
+                    {"org_name": "Northwestern Mutual", "total": "19500", "pacs": "5000", "indivs": "14500"},
+                    {"org_name": "Comcast Corp", "total": "19200", "pacs": "10000", "indivs": "9200"},
+                    {"org_name": "NorPAC", "total": "19025", "pacs": "2000", "indivs": "17025"},
+                    {"org_name": "National Assn of Broadcasters", "total": "18400", "pacs": "8000", "indivs": "10400"},
+                    {"org_name": "Fresenius Medical Care", "total": "18200", "pacs": "5000", "indivs": "13200"},
+                    {"org_name": "Northrop Grumman", "total": "17500", "pacs": "17500", "indivs": "0"},
+                    {"org_name": "Apollo Global Management", "total": "16000", "pacs": "0", "indivs": "16000"},
+                    {"org_name": "BP", "total": "16000", "pacs": "16000", "indivs": "0"},
+                    {"org_name": "Sinclair Companies", "total": "16000", "pacs": "0", "indivs": "16000"}
+                ]
+            }
+        ]
+    }
+}
