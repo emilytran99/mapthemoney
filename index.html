@@ -13,7 +13,6 @@
     <h1> Map the Money </h1>
     <div id="infoWin">
         <h2> Welcome to Map the Money! </h2>
-        <div class="closeInfo" id="closeX" onClick="infoClose();">&times;</div>
         <div id="stateInfo">
             Click on a state to see that state's senators' top contributors.
             <div id="wrapper"></div>
@@ -155,7 +154,7 @@
 
     function renderWelcome() {
         d3.selectAll(".senInfo").text("");
-        d3.select("#stateInfo").text("Stick about section here");
+        d3.select("#stateInfo").text("Click on a state to see its senators' top contributors.");
         d3.select("#closeButton").text("Explore the map");
     }
 
