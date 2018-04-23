@@ -1,0 +1,14 @@
+<response>
+	<contributors cand_name="John Boozman (R)" cid="N00013873" cycle="2018" origin="Center for Responsive Politics" source="https://www.opensecrets.org/members-of-congress/contributors?cid=N00013873&amp;cycle=2018" notice="The organizations themselves did not donate, rather the money came from the organization&apos;s PAC, its individual members or employees or owners, and those individuals&apos; immediate families." >
+		<contributor org_name="Wal-Mart Stores" total="65880" pacs="10000" indivs="55880"/>
+		<contributor org_name="Stephens Group" total="61700" pacs="10000" indivs="51700"/>
+		<contributor org_name="US Senate" total="25400" pacs="0" indivs="25400"/>
+		<contributor org_name="NextEra Energy" total="23500" pacs="10000" indivs="13500"/>
+		<contributor org_name="NorPAC" total="22000" pacs="0" indivs="22000"/>
+		<contributor org_name="MCNA Dental Plans" total="18900" pacs="0" indivs="18900"/>
+		<contributor org_name="Murphy Oil" total="18200" pacs="5000" indivs="13200"/>
+		<contributor org_name="Blessey Marine Service" total="17900" pacs="12500" indivs="5400"/>
+		<contributor org_name="Campbell Soup" total="17000" pacs="17000" indivs="0"/>
+		<contributor org_name="Anheuser-Busch InBev" total="16650" pacs="11000" indivs="5650"/>
+	</contributors>
+</response>
