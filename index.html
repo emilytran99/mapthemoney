@@ -152,9 +152,8 @@
     function renderWelcome() {
         d3.selectAll(".senInfo").text("");
         d3.select("#stateInfo").html(`
-            <p>Click on a state to see more information on its senators.</p>
-            <p>For each senator see how much their top 10 contributors gave in
-            the last 6 years either through individual contributions or PACS.</p>
+            <p>Click on a state to learn more about its senators and their campaign finances.</p>
+            <p>The data shown is from the top 10 contributors in the past six year cycle. The organizations themselves did not donate; rather, the money came from the PAC affiliated with it, or from its individual members, employees, owners, and these individuals' immediate families.</p>
             </br>
             <a href="https://www.opensecrets.org/open-data"><img src="openSecrets.gif"></a>`);
         d3.select("#closeButton").text("Explore the map");
@@ -344,7 +343,7 @@
                 .html(` <th>Organization</th>
                         <th>Total Contribution</th>
                         <th>% from PACs</th>
-                        <th>% from indivuals</th>`);
+                        <th>% from individuals</th>`);
 
     }
 
