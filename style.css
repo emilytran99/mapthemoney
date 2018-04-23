@@ -164,7 +164,6 @@ h3 {
     max-height: 0;
     overflow: hidden;
     transition: 0.4s;
-    margin: 0 0 20px 0;
 }
 
 .tableWrapper.open {
@@ -229,4 +228,9 @@ p {
 
 .em {
     font-weight: bold;
+}
+
+
+img {
+    margin: 12px;
 }

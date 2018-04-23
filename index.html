@@ -13,10 +13,7 @@
     <h1> Map the Money </h1>
     <div id="infoWin">
         <h2> Welcome to Map the Money! </h2>
-        <div id="stateInfo">
-            Click on a state to see that state's senators' top contributors.
-            <div id="wrapper"></div>
-        </div>
+        <div id="stateInfo"></div>
         <div class="closeInfo" id="closeButton" onClick="infoClose();">Done</div>
     </div>
 
@@ -154,7 +151,12 @@
 
     function renderWelcome() {
         d3.selectAll(".senInfo").text("");
-        d3.select("#stateInfo").text("Click on a state to see its senators' top contributors.");
+        d3.select("#stateInfo").html(`
+            <p>Click on a state to see more information on its senators.</p>
+            <p>For each senator see how much their top 10 contributors gave in
+            the last 6 years either through individual contributions or PACS.</p>
+            </br>
+            <a href="https://www.opensecrets.org/open-data"><img src="openSecrets.gif"></a>`);
         d3.select("#closeButton").text("Explore the map");
     }
 
@@ -194,6 +196,13 @@
         for (var i in stateData){
             makeGraph(stateData[i], maxTotal);
         }
+        infoBox.append("p")
+                .style("margin-bottom", "12px")
+                .style("font-size", "50%")
+                .text("Source: ")
+                .append("a")
+                .attr("href", "https://www.opensecrets.org/open-data")
+                .text("OpenSecrets.org");
     }
 
     var donorHover = d3.select("body")
@@ -246,7 +255,7 @@
         infoBox.append("p")
                 .html(`The top ten contributors donated <span class = "em" style="color: ${colorScale(0)}">$${maxSum([data]).toLocaleString()}</span>`);
         var w = d3.select("#infoWin").node().getBoundingClientRect().width - 80;
-        console.log(w);
+
 
         var canvas = infoBox
                         .append('svg')
@@ -316,18 +325,26 @@
                 .on("click", toggleTable)
                 .append("span");
 
-        infoBox.append("div")
+        var table = infoBox.append("div")
                 .attr("class", "tableWrapper")
-                .append("table")
-                .selectAll('tr')
-                .data(data.contributor)
-                .enter()
-                .append('tr')
-                .html((d)=>{return `<td>${d.org_name}</td>
-                                    <td>$${parseInt(d.total).toLocaleString()}</td>`;})
-                .on("mouseover", showDonorInfo)
-                .on("mouseout", hideDonorInfo);
+                .append("table");
+        table
+            .selectAll('tr')
+            .data(data.contributor)
+            .enter()
+            .append('tr')
+            .html((d)=>{return `<td>${d.org_name}</td>
+                                <td>$${parseInt(d.total).toLocaleString()}</td>
+                                <td>${(d.pacs / d.total * 100).toFixed(1)}%</td>
+                                <td>${(d.indivs / d.total * 100).toFixed(1)}%</td>`;})
+            .on("mouseover", showDonorInfo)
+            .on("mouseout", hideDonorInfo);
 
+        table.insert("tr", ":first-child")
+                .html(` <th>Organization</th>
+                        <th>Total Contribution</th>
+                        <th>% from PACs</th>
+                        <th>% from indivuals</th>`);
 
     }
 
